@@ -1,0 +1,249 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",24KITCHEN | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10039.m3u8
+#EXTINF:0 group-title="(PT) Portugal",24KITCHEN (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10039.m3u8
+#EXTINF:0 group-title="(PT) Portugal",A BOLA TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10036.m3u8
+#EXTINF:0 group-title="(PT) Portugal",A BOLA TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10036.m3u8
+#EXTINF:0 group-title="(PT) Portugal",A&E | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10046.m3u8
+#EXTINF:0 group-title="(PT) Portugal",A&E (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10046.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10089.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN (1+) | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10090.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN (2+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10089.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN (3+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10090.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN BLACK | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10100.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN BLACK (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10100.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN WHITE | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10091.m3u8
+#EXTINF:0 group-title="(PT) Portugal",AXN WHITE (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10091.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10037.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10037.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10035.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10035.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 2 | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10034.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 2 (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10034.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BIGGS | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10050.m3u8
+#EXTINF:0 group-title="(PT) Portugal",BIGGS (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10050.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CACA E PESCA | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10052.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CACA E PESCA (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10052.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CACAVISION | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10053.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CACAVISION (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10053.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CANAL PANDA | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10040.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CANAL PANDA (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10040.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CBS REALITY | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10062.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CBS REALITY (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10062.m3u8
+#EXTINF:0 group-title="(PT) Portugal",DISCOVERY SHOWCASE | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10054.m3u8
+#EXTINF:0 group-title="(PT) Portugal",DISCOVERY SHOWCASE (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10054.m3u8
+#EXTINF:0 group-title="(PT) Portugal",ENTERTAINMENT | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10051.m3u8
+#EXTINF:0 group-title="(PT) Portugal",ENTERTAINMENT (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10051.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10099.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10099.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10096.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10096.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX CRIME | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10095.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX CRIME (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10095.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX LIFE | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10098.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX LIFE (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10098.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FUEL TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10057.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FUEL TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10057.m3u8
+#EXTINF:0 group-title="(PT) Portugal",GLOBO TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10058.m3u8
+#EXTINF:0 group-title="(PT) Portugal",GLOBO TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10058.m3u8
+#EXTINF:0 group-title="(PT) Portugal",HISTORIA | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10043.m3u8
+#EXTINF:0 group-title="(PT) Portugal",HISTORIA (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10043.m3u8
+#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10088.m3u8
+#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10088.m3u8
+#EXTINF:0 group-title="(PT) Portugal",JIM JAM | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10077.m3u8
+#EXTINF:0 group-title="(PT) Portugal",JIM JAM (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10077.m3u8
+#EXTINF:0 group-title="(PT) Portugal",LIFESTYLE TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10071.m3u8
+#EXTINF:0 group-title="(PT) Portugal",LIFESTYLE TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10071.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MCS EXTREME | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10075.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MCS EXTREME (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10075.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOV | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10087.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOV (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10087.m3u8
+#EXTINF:0 group-title="(PT) Portugal",NAT GEO WILD | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10042.m3u8
+#EXTINF:0 group-title="(PT) Portugal",NAT GEO WILD (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10042.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PANDA BIGGS | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10081.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PANDA BIGGS (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10081.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PFC | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10063.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PFC (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10063.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PORTO CANAL | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10074.m3u8
+#EXTINF:0 group-title="(PT) Portugal",PORTO CANAL (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10074.m3u8
+#EXTINF:0 group-title="(PT) Portugal",Q CANAL | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10064.m3u8
+#EXTINF:0 group-title="(PT) Portugal",Q CANAL (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10064.m3u8
+#EXTINF:0 group-title="(PT) Portugal",REDE TV | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10065.m3u8
+#EXTINF:0 group-title="(PT) Portugal",REDE TV (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10065.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10109.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10109.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10108.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10108.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 2 | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10107.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 2 (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10107.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 3 | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10106.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP 3 (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10106.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP ACORES | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10103.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP ACORES (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10103.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10105.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10105.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10104.m3u8
+#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10104.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10049.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10049.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC CARAS | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10066.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC CARAS (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10066.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC MULHER | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10047.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC MULHER (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10047.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC NOTICIAS | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10048.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC NOTICIAS (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10048.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10073.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10073.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SYFY | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10093.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SYFY (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10093.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SYFY | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10092.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SYFY (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10092.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TLC | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10068.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TLC (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10068.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TRAVEL CHANNEL | HD
+http://mag.homeip.net:8080/live/gazi1/12345/10041.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TRAVEL CHANNEL (1+) | HD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10041.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV ARCA DA ALIANCA | SD
+http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV BETEL | SD
+http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV LOUVAR | SD
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV RECORD | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10101.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV RECORD (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10101.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV RIO | SD
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV VERDADE | SD
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVE | SD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10045.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10045.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI 24 | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10044.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI 24 (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10044.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI FICCAO | SD
+http://144.217.72.121:8000/live/nova1764/a1764/370.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI REALITY | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10070.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TVI REALITY (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10070.m3u8
+#EXTINF:0 group-title="(PT) Portugal",WOOHOO | SD
+http://mag.homeip.net:8080/live/gazi1/12345/10032.m3u8
+#EXTINF:0 group-title="(PT) Portugal",WOOHOO (1+) | SD
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10032.m3u8
