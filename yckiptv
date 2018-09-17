@@ -1,1044 +1,845 @@
 #EXTM3U
-#EXTINF:-1,(PT) RTP1
-http://hbox.cdnss.me:80/live/mtg/2406/3009.ts
-#EXTINF:-1,(PT) RTP2
-http://hbox.cdnss.me:80/live/mtg/2406/3008.ts
-#EXTINF:-1,(PT) Porto Canal
-http://hbox.cdnss.me:80/live/mtg/2406/3002.ts
-#EXTINF:-1,(PT) Globo Premium
-http://hbox.cdnss.me:80/live/mtg/2406/3006.ts
-#EXTINF:-1,(PT) Caza Pesca
-http://hbox.cdnss.me:80/live/mtg/2406/3004.ts
-#EXTINF:-1,(PT) TVI
-http://hbox.cdnss.me:80/live/mtg/2406/3007.ts
-#EXTINF:-1,(PT) Tv Latino
-http://hbox.cdnss.me:80/live/mtg/2406/2973.ts
-#EXTINF:-1,(PT) TV Kujawy
-http://hbox.cdnss.me:80/live/mtg/2406/2983.ts
-#EXTINF:-1,(PT) SIC
-http://hbox.cdnss.me:80/live/mtg/2406/4394.ts
-#EXTINF:-1,(PT) BTV 1 HD
-http://hbox.cdnss.me:80/live/mtg/2406/4393.ts
-#EXTINF:-1,(PT) CMTV
-http://hbox.cdnss.me:80/live/mtg/2406/4391.ts
-#EXTINF:-1,(PT) Tv Cine 1
-http://hbox.cdnss.me:80/live/mtg/2406/2972.ts
-#EXTINF:-1,(PT) Tv Cine 2
-http://hbox.cdnss.me:80/live/mtg/2406/3012.ts
-#EXTINF:-1,(PT) Tv Cine 4
-http://hbox.cdnss.me:80/live/mtg/2406/2971.ts
-#EXTINF:-1,(PT) Tv Cine 3
-http://hbox.cdnss.me:80/live/mtg/2406/2974.ts
-#EXTINF:-1,(PT) Fox Comedy
-http://hbox.cdnss.me:80/live/mtg/2406/2999.ts
-#EXTINF:-1,(PT) FOX CRIME HD
-http://hbox.cdnss.me:80/live/mtg/2406/3000.ts
-#EXTINF:-1,(PT) Axn HD
-http://hbox.cdnss.me:80/live/mtg/2406/3003.ts
-#EXTINF:-1,(PT) Syfy
-http://hbox.cdnss.me:80/live/mtg/2406/3010.ts
-#EXTINF:-1,(PT) Hollywood
-http://hbox.cdnss.me:80/live/mtg/2406/2980.ts
-#EXTINF:-1,(PT) FOX LIFE HD
-http://hbox.cdnss.me:80/live/mtg/2406/2964.ts
-#EXTINF:-1,(PT) Fox Movie
-http://hbox.cdnss.me:80/live/mtg/2406/2966.ts
-#EXTINF:-1,(PT) AXN BLACK HD
-http://hbox.cdnss.me:80/live/mtg/2406/2965.ts
-#EXTINF:-1,(PT) CINE MUNDO
-http://hbox.cdnss.me:80/live/mtg/2406/4392.ts
-#EXTINF:-1,(PT) AMC
-http://hbox.cdnss.me:80/live/mtg/2406/4389.ts
-#EXTINF:-1,(PT) TVSeries HD
-http://hbox.cdnss.me:80/live/mtg/2406/4570.ts
-#EXTINF:-1,(PT) Baby First
-http://hbox.cdnss.me:80/live/mtg/2406/4598.ts
-#EXTINF:-1,(PT) Cartoon Network Portugal
-http://hbox.cdnss.me:80/live/mtg/2406/4593.ts
-#EXTINF:-1,(PT) Disney Channel
-http://hbox.cdnss.me:80/live/mtg/2406/4590.ts
-#EXTINF:-1,(PT) Disney Junior
-http://hbox.cdnss.me:80/live/mtg/2406/4589.ts
-#EXTINF:-1,(PT) JimJam
-http://hbox.cdnss.me:80/live/mtg/2406/4588.ts
-#EXTINF:-1,(PT) Nickelodeon
-http://hbox.cdnss.me:80/live/mtg/2406/4580.ts
-#EXTINF:-1,(PT) Benfica TV 1
-http://hbox.cdnss.me:80/live/mtg/2406/4635.ts
-#EXTINF:-1,(PT) Kombat Sport
-http://hbox.cdnss.me:80/live/mtg/2406/4634.ts
-#EXTINF:-1,(PT) Real  Madrid
-http://hbox.cdnss.me:80/live/mtg/2406/4633.ts
-#EXTINF:-1,(PT) TV All  Sports
-http://hbox.cdnss.me:80/live/mtg/2406/4632.ts
-#EXTINF:-1,(PT) SPORT TV +
-http://hbox.cdnss.me:80/live/mtg/2406/4600.ts
-#EXTINF:-1,(PT) Sport TV 1
-http://hbox.cdnss.me:80/live/mtg/2406/2975.ts
-#EXTINF:-1,(PT) Sport TV 2
-http://hbox.cdnss.me:80/live/mtg/2406/2976.ts
-#EXTINF:-1,(PT) SPORT TV 3
-http://hbox.cdnss.me:80/live/mtg/2406/4572.ts
-#EXTINF:-1,(PT) Sport TV 4
-http://hbox.cdnss.me:80/live/mtg/2406/2978.ts
-#EXTINF:-1,(PT) SPORT TV 5
-http://hbox.cdnss.me:80/live/mtg/2406/4601.ts
-#EXTINF:-1,(PT) Sporting TV
-http://hbox.cdnss.me:80/live/mtg/2406/4578.ts
-#EXTINF:-1,(PT) E! Entertainment
-http://hbox.cdnss.me:80/live/mtg/2406/4599.ts
-#EXTINF:-1,(PT) MCM Pop
-http://hbox.cdnss.me:80/live/mtg/2406/4587.ts
-#EXTINF:-1,(PT) MTV Portugal
-http://hbox.cdnss.me:80/live/mtg/2406/4583.ts
-#EXTINF:-1,(PT) VH1
-http://hbox.cdnss.me:80/live/mtg/2406/4573.ts
-#EXTINF:-1,(PT) VH1 Classic
-http://hbox.cdnss.me:80/live/mtg/2406/4575.ts
-#EXTINF:-1,(PT) Biggs
-http://hbox.cdnss.me:80/live/mtg/2406/4597.ts
-#EXTINF:-1,(PT) CACA_E_PESCA
-http://hbox.cdnss.me:80/live/mtg/2406/4596.ts
-#EXTINF:-1,(PT) Canal Panda
-http://hbox.cdnss.me:80/live/mtg/2406/4595.ts
-#EXTINF:-1,(PT) Canal Q
-http://hbox.cdnss.me:80/live/mtg/2406/4594.ts
-#EXTINF:-1,(PT) MCS Extreme
-http://hbox.cdnss.me:80/live/mtg/2406/4586.ts
-#EXTINF:-1,(PT) Odisseia
-http://hbox.cdnss.me:80/live/mtg/2406/4585.ts
-#EXTINF:-1,(PT) Motor vision
-http://hbox.cdnss.me:80/live/mtg/2406/4584.ts
-#EXTINF:-1,(PT) NBA TV
-http://hbox.cdnss.me:80/live/mtg/2406/4581.ts
-#EXTINF:-1,(PT) Canalo Nova
-http://hbox.cdnss.me:80/live/mtg/2406/4579.ts
-#EXTINF:-1,(PT) TLC
-http://hbox.cdnss.me:80/live/mtg/2406/4577.ts
-#EXTINF:-1,(PT) Historia
-http://hbox.cdnss.me:80/live/mtg/2406/4390.ts
-#EXTINF:-1,(PT) CBS Reality
-http://hbox.cdnss.me:80/live/mtg/2406/4592.ts
-#EXTINF:-1,(PT) Discovery HD
-http://hbox.cdnss.me:80/live/mtg/2406/4571.ts
-#EXTINF:-1,(PT) Nat Geo Wild
-http://hbox.cdnss.me:80/live/mtg/2406/4582.ts
-#EXTINF:-1,(PT) NATIONAL GEOGRAPHIC HD
-http://hbox.cdnss.me:80/live/mtg/2406/4388.ts
-#EXTINF:-1,(PT) TVI Reality
-http://hbox.cdnss.me:80/live/mtg/2406/4574.ts
 
-#EXTINF:-1,PT: TV CINE 3 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3264.ts
-#EXTINF:-1,PT: TV CINE 2 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3263.ts
-#EXTINF:-1,PT: TVI
-http://163.172.62.63:8000/live/fazeel/fazeel/3258.ts
-#EXTINF:-1,PT: SPORTV
-http://163.172.62.63:8000/live/fazeel/fazeel/3281.ts
-#EXTINF:-1,PT: SPORTING TV
-http://163.172.62.63:8000/live/fazeel/fazeel/3283.ts
-#EXTINF:-1,PT: SPORT TV HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3282.ts
-#EXTINF:-1,PT: SIC MULHER
-http://163.172.62.63:8000/live/fazeel/fazeel/3262.ts
-#EXTINF:-1,PT: SIC KIDS
-http://163.172.62.63:8000/live/fazeel/fazeel/3278.ts
-#EXTINF:-1,PT: SIC
-http://163.172.62.63:8000/live/fazeel/fazeel/3256.ts
-#EXTINF:-1,PT: RTP 3 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3255.ts
-#EXTINF:-1,PT: RTP 2 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3254.ts
-#EXTINF:-1,PT: RTP 1 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3253.ts
-#EXTINF:-1,PT: NAT GEO WILD
-http://163.172.62.63:8000/live/fazeel/fazeel/3273.ts
-#EXTINF:-1,PT: MOV HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3271.ts
-#EXTINF:-1,PT: JIM JAM
-http://163.172.62.63:8000/live/fazeel/fazeel/3277.ts
-#EXTINF:-1,PT: FOX Life
-http://163.172.62.63:8000/live/fazeel/fazeel/3268.ts
-#EXTINF:-1,PT: FOX HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3267.ts
-#EXTINF:-1,PT: VH1
-http://163.172.62.63:8000/live/fazeel/fazeel/3269.ts
-#EXTINF:-1,PT: Toros Tv
-http://163.172.62.63:8000/live/fazeel/fazeel/3270.ts
-#EXTINF:-1,PT: CMTV
-http://163.172.62.63:8000/live/fazeel/fazeel/3261.ts
-#EXTINF:-1,PT: CBS REALITY
-http://163.172.62.63:8000/live/fazeel/fazeel/3275.ts
-#EXTINF:-1,PT: CANAL PORTO
-http://163.172.62.63:8000/live/fazeel/fazeel/3284.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://163.172.62.63:8000/live/fazeel/fazeel/3279.ts
-#EXTINF:-1,PT: CANAL HOLLYWOOD
-http://163.172.62.63:8000/live/fazeel/fazeel/3272.ts
-#EXTINF:-1,PT: Panda Biggs
-http://163.172.62.63:8000/live/fazeel/fazeel/3276.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://163.172.62.63:8000/live/fazeel/fazeel/3114.ts
-#EXTINF:-1,PT: TV CINE 4
-http://163.172.62.63:8000/live/fazeel/fazeel/3113.ts
-#EXTINF:-1,PT: SYFY
-http://163.172.62.63:8000/live/fazeel/fazeel/3141.ts
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/4397.ts
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3118.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3117.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3116.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3115.ts
-#EXTINF:-1,PT: Sic Noticias
-http://163.172.62.63:8000/live/fazeel/fazeel/3119.ts
-#EXTINF:-1,PT: SIC Caras
-http://163.172.62.63:8000/live/fazeel/fazeel/3120.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://163.172.62.63:8000/live/fazeel/fazeel/3121.ts
-#EXTINF:-1,PT: RTP Madeira
-http://163.172.62.63:8000/live/fazeel/fazeel/3122.ts
-#EXTINF:-1,PT: Cine Mundo
-http://163.172.62.63:8000/live/fazeel/fazeel/3123.ts
-#EXTINF:-1,PT: RTP Africa
-http://163.172.62.63:8000/live/fazeel/fazeel/3124.ts
-#EXTINF:-1,PT: RTP Acores
-http://163.172.62.63:8000/live/fazeel/fazeel/3125.ts
-#EXTINF:-1,PT: Benfica TV 1
-http://163.172.62.63:8000/live/fazeel/fazeel/3126.ts
-#EXTINF:-1,PT: Tvi 24
-http://163.172.62.63:8000/live/fazeel/fazeel/3127.ts
-#EXTINF:-1,PT: TV CINE 1 HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3128.ts
-#EXTINF:-1,PT: NICKELODEON
-http://163.172.62.63:8000/live/fazeel/fazeel/3133.ts
-#EXTINF:-1,PT: TVI Reality
-http://163.172.62.63:8000/live/fazeel/fazeel/3142.ts
-#EXTINF:-1,PT: Porto canal
-http://163.172.62.63:8000/live/fazeel/fazeel/3143.ts
-#EXTINF:-1,PT: National Geographic HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3129.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://163.172.62.63:8000/live/fazeel/fazeel/3144.ts
-#EXTINF:-1,PT: FOX Movies HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3130.ts
-#EXTINF:-1,PT: RT GLOBAL
-http://163.172.62.63:8000/live/fazeel/fazeel/3132.ts
-#EXTINF:-1,PT: A BOLA TV
-http://163.172.62.63:8000/live/fazeel/fazeel/3131.ts
-#EXTINF:-1,PT: Euronews
-http://163.172.62.63:8000/live/fazeel/fazeel/3145.ts
-#EXTINF:-1,PT: Disney Junior
-http://163.172.62.63:8000/live/fazeel/fazeel/3134.ts
-#EXTINF:-1,PT: Disney Channel
-http://163.172.62.63:8000/live/fazeel/fazeel/3136.ts
-#EXTINF:-1,PT: Discovery Channel
-http://163.172.62.63:8000/live/fazeel/fazeel/3137.ts
-#EXTINF:-1,PT: Cartoon Network
-http://163.172.62.63:8000/live/fazeel/fazeel/3135.ts
-#EXTINF:-1,PT: AXN White
-http://163.172.62.63:8000/live/fazeel/fazeel/3139.ts
-#EXTINF:-1,PT: AXN HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3140.ts
-#EXTINF:-1,PT: AXN BLACK
-http://163.172.62.63:8000/live/fazeel/fazeel/3138.ts
-#EXTINF:-1,PT: TVI Ficcao
-http://163.172.62.63:8000/live/fazeel/fazeel/3257.ts
-#EXTINF:-1,PT: TV SERIES
-http://163.172.62.63:8000/live/fazeel/fazeel/3266.ts
-#EXTINF:-1,PT: TV RECORD
-http://163.172.62.63:8000/live/fazeel/fazeel/3260.ts
-#EXTINF:-1,PT: TV GLOBO PORTUGAL
-http://163.172.62.63:8000/live/fazeel/fazeel/3259.ts
-#EXTINF:-1,PT: PFC
-http://163.172.62.63:8000/live/fazeel/fazeel/3265.ts
-
-#EXTINF:-1,RTP 1
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1.ts
-#EXTINF:-1,RTP 2
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/2.ts
-#EXTINF:-1,SIC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/3.ts
-#EXTINF:-1,TVI
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/4.ts
-#EXTINF:-1,CMTV
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.ts
-#EXTINF:-1,RTP 3
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/5.ts
-#EXTINF:-1,TVI  24
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/7.ts
-#EXTINF:-1,A BOLA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.ts
-#EXTINF:-1,SIC NOTICIAS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/6.ts
-#EXTINF:-1,PORTO CANAL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/51.ts
-#EXTINF:-1,SIC RADICAL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/12.ts
-#EXTINF:-1,SIC K
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/10.ts
-#EXTINF:-1,NICKELODEON
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/14.ts
-#EXTINF:-1,JIM JAM
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/11.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/15.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/16.ts
-#EXTINF:-1,CARTOON NETWORK
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/17.ts
-#EXTINF:-1,CANAL PANDA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/13.ts
-#EXTINF:-1,PANDA BIGGS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/9.ts
-#EXTINF:-1,---------- FILMES & SERIES ----------
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/69.ts
-#EXTINF:-1,AMC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/21.ts
-#EXTINF:-1,AXN HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/18.ts
-#EXTINF:-1,AXN WHITE
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/20.ts
-#EXTINF:-1,AXN BLACK
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/19.ts
-#EXTINF:-1,FOX LIFE
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1229.ts
-#EXTINF:-1,FOX CRIME
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/641.ts
-#EXTINF:-1,FOX MOVIES
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/22.ts
-#EXTINF:-1,FOX COMEDY
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/52.ts
-#EXTINF:-1,CINEMUNDO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/23.ts
-#EXTINF:-1,HOLLYWOOD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/24.ts
-#EXTINF:-1,TVCINE 1 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/25.ts
-#EXTINF:-1,TVCINE 2 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/26.ts
-#EXTINF:-1,TVCINE 3 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/27.ts
-#EXTINF:-1,TVCINE 4 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/28.ts
-#EXTINF:-1,TVSERIES HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/29.ts
-#EXTINF:-1,---------- DESPORTO ----------
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/70.ts
-#EXTINF:-1,EUROSPORT 1
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/31.ts
-#EXTINF:-1,SPORT TV +
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.ts
-#EXTINF:-1,SPORTTV 1 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/35.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/37.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/38.ts
-#EXTINF:-1,SPORT TV 4
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/39.ts
-#EXTINF:-1,SPORT TV 5
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/40.ts
-#EXTINF:-1,BENFICA TV 1
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.ts
-#EXTINF:-1,CAÇAVISION
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/43.ts
-#EXTINF:-1,CAZA y PESCA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/44.ts
-#EXTINF:-1,MOTORVISION
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/190.ts
-#EXTINF:-1,KOMBAT SPORTS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/191.ts
-#EXTINF:-1,PFC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/654.ts
-#EXTINF:-1,---------- ENTERTIMENTO ----------
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/71.ts
-#EXTINF:-1,TVI  REALITY
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/45.ts
-#EXTINF:-1,TVI FICCAO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/50.ts
-#EXTINF:-1,TV RECORD
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/47.ts
-#EXTINF:-1,TLC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1345.ts
-#EXTINF:-1,SIC MULHER
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/648.ts
-#EXTINF:-1,SIC CARAS
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/921.ts
-#EXTINF:-1,TV GLOBO
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/48.ts
-#EXTINF:-1,TV GLOBO PREMIUM
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/49.ts
-#EXTINF:-1,ODISSEIA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/53.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/61.ts
-#EXTINF:-1,CANAL DE HISTORIA
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/54.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/55.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/56.ts
-#EXTINF:-1,NAT GEO WILL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/57.ts
-#EXTINF:-1,24 KITCHEN
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/58.ts
-#EXTINF:-1,MTV PORTUGAL
-http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/59.ts
-
-#EXTINF:-1,PT: 24KITCHEN HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65589.ts
-#EXTINF:-1,PT: A BOLA TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84176.ts
-#EXTINF:-1,PT: A&E HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65596.ts
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88151.ts
-#EXTINF:-1,PT: AMC FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84223.ts
-#EXTINF:-1,PT: ARTV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91654.ts
-#EXTINF:-1,PT: AXN Black HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65649.ts
-#EXTINF:-1,PT: AXN HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65638.ts
-#EXTINF:-1,PT: AXN White HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65640.ts
-#EXTINF:-1,PT: AXN.HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/125846.ts
-#EXTINF:-1,PT: Baby First
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/87008.ts
-#EXTINF:-1,PT: BABY TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65631.ts
-#EXTINF:-1,PT: beIN Sports
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/74646.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65586.ts
-#EXTINF:-1,PT: BENFICA TV 2 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65585.ts
-#EXTINF:-1,PT: Benfica TV FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/115676.ts
-#EXTINF:-1,PT: BIGGS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65600.ts
-#EXTINF:-1,PT: Blaze
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/105184.ts
-#EXTINF:-1,PT: BLOOMBERG
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91666.ts
-#EXTINF:-1,PT: bTV 1 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84213.ts
-#EXTINF:-1,PT: bTV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88976.ts
-#EXTINF:-1,PT: CACA E PESCA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/109723.ts
-#EXTINF:-1,PT: CACAVISION HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65603.ts
-#EXTINF:-1,PT: CANAL CINEMUNDO
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107663.ts
-#EXTINF:-1,PT: Canal de Historia
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/97223.ts
-#EXTINF:-1,PT: Canal de Histðria
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114322.ts
-#EXTINF:-1,PT: CANAL HISTORIA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84807.ts
-#EXTINF:-1,PT: Canal NOS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/106940.ts
-#EXTINF:-1,PT: Canal Panda HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65590.ts
-#EXTINF:-1,PT: Canal Q HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84219.ts
-#EXTINF:-1,PT: CANAL TOROS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/117625.ts
-#EXTINF:-1,PT: Canalo Nova
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/95008.ts
-#EXTINF:-1,PT: CAPELA DE FATIMA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/117627.ts
-#EXTINF:-1,PT: CARTOON NETWORK
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65629.ts
-#EXTINF:-1,PT: Cartoon Network Portugal
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114784.ts
-#EXTINF:-1,PT: CARTOONET WORK
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102316.ts
-#EXTINF:-1,PT: Casa E Pesca
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65602.ts
-#EXTINF:-1,PT: CBS REALITY
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65612.ts
-#EXTINF:-1,PT: CBSN
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91661.ts
-#EXTINF:-1,PT: Chelsea TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65584.ts
-#EXTINF:-1,PT: Cine Mundo
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65643.ts
-#EXTINF:-1,PT: Cinema 1
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119019.ts
-#EXTINF:-1,PT: Cinema 2
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119020.ts
-#EXTINF:-1,PT: Cinema 3
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119023.ts
-#EXTINF:-1,PT: Cinema 4
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119024.ts
-#EXTINF:-1,PT: Cinema 5
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119021.ts
-#EXTINF:-1,PT: Cinema 7
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/119022.ts
-#EXTINF:-1,PT: CM TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84220.ts
-#EXTINF:-1,PT: CMTV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102317.ts
-#EXTINF:-1,PT: Crimen & Investigation
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88981.ts
-#EXTINF:-1,PT: Discovery Channel HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84181.ts
-#EXTINF:-1,PT: DISCOVERY CHANNEL SPAIN & AMP PORTUGA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107675.ts
-#EXTINF:-1,PT: Discovery Showcase HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65604.ts
-#EXTINF:-1,PT: Disney Channel HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84227.ts
-#EXTINF:-1,PT: Disney JR
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65627.ts
-#EXTINF:-1,PT: E! Entertainment HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84827.ts
-#EXTINF:-1,PT: ENTERTAINMENT
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65601.ts
-#EXTINF:-1,PT: Euronews
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65588.ts
-#EXTINF:-1,PT: EUROSPORT
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/101266.ts
-#EXTINF:-1,PT: Eurosport 1 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84177.ts
-#EXTINF:-1,PT: Eurosport 2 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84216.ts
-#EXTINF:-1,PT: Eurosport News
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84217.ts
-#EXTINF:-1,PT: FASHION TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91646.ts
-#EXTINF:-1,PT: Food Network HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84813.ts
-#EXTINF:-1,PT: Fox Comedy HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65645.ts
-#EXTINF:-1,PT: Fox Crime HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65644.ts
-#EXTINF:-1,PT: FOX HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65648.ts
-#EXTINF:-1,PT: Fox Life HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65647.ts
-#EXTINF:-1,PT: Fox Movies HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65646.ts
-#EXTINF:-1,PT: FOX NEWS HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88987.ts
-#EXTINF:-1,PT: Fuel TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65607.ts
-#EXTINF:-1,PT: FX
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107711.ts
-#EXTINF:-1,PT: Globo Now HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84825.ts
-#EXTINF:-1,PT: Globo Premium
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114285.ts
-#EXTINF:-1,PT: GLOBO TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65608.ts
-#EXTINF:-1,PT: Historia HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65593.ts
-#EXTINF:-1,PT: Histðria
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/95033.ts
-#EXTINF:-1,PT: Hollywood HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65637.ts
-#EXTINF:-1,PT: JimJam
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65626.ts
-#EXTINF:-1,PT: KITCHEN HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107710.ts
-#EXTINF:-1,PT: Kombat Sports
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65605.ts
-#EXTINF:-1,PT: LEIRIA TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/105222.ts
-#EXTINF:-1,PT: LifeStyle TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65620.ts
-#EXTINF:-1,PT: MACAU TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91651.ts
-#EXTINF:-1,PT: MCM POP
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/106946.ts
-#EXTINF:-1,PT: MCM TOP
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/109734.ts
-#EXTINF:-1,PT: MCS EXTREME
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65624.ts
-#EXTINF:-1,PT: MCS LifeStyle
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84254.ts
-#EXTINF:-1,PT: MEZZO
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91665.ts
-#EXTINF:-1,PT: Motors TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85087.ts
-#EXTINF:-1,PT: MOTORSPORT TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/105225.ts
-#EXTINF:-1,PT: Motorvision HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65609.ts
-#EXTINF:-1,PT: MOTOVISION
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/105224.ts
-#EXTINF:-1,PT: MOV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65636.ts
-#EXTINF:-1,PT: MTV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107680.ts
-#EXTINF:-1,PT: MTV DANCE
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107709.ts
-#EXTINF:-1,PT: MTV PORTUGAL
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/101260.ts
-#EXTINF:-1,PT: My cuisine
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/123325.ts
-#EXTINF:-1,PT: NAT GEO HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84180.ts
-#EXTINF:-1,PT: NAT GEO Wild HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65592.ts
-#EXTINF:-1,PT: NBA HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65621.ts
-#EXTINF:-1,PT: NFL NOW
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88993.ts
-#EXTINF:-1,PT: Nickelodeon
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65628.ts
-#EXTINF:-1,PT: Niclelodeon HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91944.ts
-#EXTINF:-1,PT: NRJ HITS TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88994.ts
-#EXTINF:-1,PT: ODISSEA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/117631.ts
-#EXTINF:-1,PT: Odisseia
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84183.ts
-#EXTINF:-1,PT: PANDA BIGGS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65630.ts
-#EXTINF:-1,PT: PANDA HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91642.ts
-#EXTINF:-1,PT: PFC HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65613.ts
-#EXTINF:-1,PT: Plus TVI
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91945.ts
-#EXTINF:-1,PT: PORTO
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102328.ts
-#EXTINF:-1,PT: Porto Canal
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65623.ts
-#EXTINF:-1,PT: Q CANAL
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65614.ts
-#EXTINF:-1,PT: RCI RADICAL
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102329.ts
-#EXTINF:-1,PT: Real Madrid TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84178.ts
-#EXTINF:-1,PT: RECORD NEWS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/113651.ts
-#EXTINF:-1,PT: Record TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88153.ts
-#EXTINF:-1,PT: REDE TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65615.ts
-#EXTINF:-1,PT: RTP 1 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65658.ts
-#EXTINF:-1,PT: RTP 2 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65657.ts
-#EXTINF:-1,PT: RTP 3 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65655.ts
-#EXTINF:-1,PT: RTP Acores
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65652.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65651.ts
-#EXTINF:-1,PT: Rtp AÃ§ores
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/110645.ts
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/88154.ts
-#EXTINF:-1,PT: RTP Madeira
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65654.ts
-#EXTINF:-1,PT: RTP MADIEAR
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102333.ts
-#EXTINF:-1,PT: RTP Memoria
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65653.ts
-#EXTINF:-1,PT: RTP Memðria
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/94999.ts
-#EXTINF:-1,PT: RTP ÁFRICA HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/102854.ts
-#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85091.ts
-#EXTINF:-1,PT: SIC Caras HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65616.ts
-#EXTINF:-1,PT: SIC FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65599.ts
-#EXTINF:-1,PT: Sic K HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85092.ts
-#EXTINF:-1,PT: SIC Kids
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/101076.ts
-#EXTINF:-1,PT: SIC Mulher FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65597.ts
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65598.ts
-#EXTINF:-1,PT: SIC Radical HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65622.ts
-#EXTINF:-1,PT: SKY NEWS
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91663.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65574.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65573.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65571.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65570.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65569.ts
-#EXTINF:-1,PT: SPORT TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/99265.ts
-#EXTINF:-1,PT: Sport TV Mais
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114314.ts
-#EXTINF:-1,PT: Sport TV+ HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84174.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65568.ts
-#EXTINF:-1,PT: SportTV 1 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107820.ts
-#EXTINF:-1,PT: SportTV 2 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107821.ts
-#EXTINF:-1,PT: SportTV 3 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107822.ts
-#EXTINF:-1,PT: SportTV 4 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107823.ts
-#EXTINF:-1,PT: SportTV 5 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107824.ts
-#EXTINF:-1,PT: SyFy HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65641.ts
-#EXTINF:-1,PT: TCV CABO VERDE
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91649.ts
-#EXTINF:-1,PT: TLC EUROPE
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107681.ts
-#EXTINF:-1,PT: TLC HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65617.ts
-#EXTINF:-1,PT: Toros TV HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84255.ts
-#EXTINF:-1,PT: TPA INTERN
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/117638.ts
-#EXTINF:-1,PT: Trace
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114292.ts
-#EXTINF:-1,PT: Trace Urban TV
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91659.ts
-#EXTINF:-1,PT: Travel Channel FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65591.ts
-#EXTINF:-1,PT: TV All Sports
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114787.ts
-#EXTINF:-1,PT: TV Galicia
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/106958.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/104587.ts
-#EXTINF:-1,PT: TV Kujawy
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114777.ts
-#EXTINF:-1,PT: TV MIRAMAR ANGOLA
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/91645.ts
-#EXTINF:-1,PT: TV Record
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65650.ts
-#EXTINF:-1,PT: TV Series FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65618.ts
-#EXTINF:-1,PT: TVC 1 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/101092.ts
-#EXTINF:-1,PT: TVC 2 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/101093.ts
-#EXTINF:-1,PT: TVC 3 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/97251.ts
-#EXTINF:-1,PT: TVC 4 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/97252.ts
-#EXTINF:-1,PT: TVC Series
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/116240.ts
-#EXTINF:-1,PT: TVCine 1 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65611.ts
-#EXTINF:-1,PT: TVCine 2 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65634.ts
-#EXTINF:-1,PT: TVCine 3 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65633.ts
-#EXTINF:-1,PT: TVCine 4 FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65632.ts
-#EXTINF:-1,PT: TVCINE HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/107665.ts
-#EXTINF:-1,PT: TVE 24H
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114291.ts
-#EXTINF:-1,PT: TVE Internacional
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114290.ts
-#EXTINF:-1,PT: TVI 24 HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65594.ts
-#EXTINF:-1,PT: TVI Camara Exclusiva
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/114288.ts
-#EXTINF:-1,PT: TVI FHD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65595.ts
-#EXTINF:-1,PT: TVI Ficcao HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/84199.ts
-#EXTINF:-1,PT: TVI REALITY CAMARA 1
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85081.ts
-#EXTINF:-1,PT: TVI REALITY CAMARA 4
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85084.ts
-#EXTINF:-1,PT: TVI Reality HD
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65619.ts
-#EXTINF:-1,PT: TVI REALITY MOSAICO
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/85085.ts
-#EXTINF:-1,PT: VH1
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/65582.ts
-#EXTINF:-1,PT: VH1 Classic
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/98020.ts
-#EXTINF:-1,PT: VH1 EUROPE
-http://prima.stream-control.live:8080/live/abu_issa_salameh/Remzo/124163.ts
-
-#EXTINF:-1,AXN HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11577.ts
-#EXTINF:-1,BTV 1 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11576.ts
-#EXTINF:-1,C-MUSIC TV PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11526.ts
-#EXTINF:-1,CANAL 180 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11534.ts
-#EXTINF:-1,CINEMUNDO PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11575.ts
-#EXTINF:-1,CMTV HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11569.ts
-#EXTINF:-1,DISCOVERY CHANNEL PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11525.ts
-#EXTINF:-1,DISCOVERY SHOWCASE PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11524.ts
-#EXTINF:-1,DISNEY CHANNEL PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11523.ts
-#EXTINF:-1,DISNEY JUNIOR PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11522.ts
-#EXTINF:-1,FOX COMEDY HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11574.ts
-#EXTINF:-1,FOX COMEDY PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11521.ts
-#EXTINF:-1,FOX CRIME HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11573.ts
-#EXTINF:-1,Fox Crime PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11520.ts
-#EXTINF:-1,FOX LIFE HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11572.ts
-#EXTINF:-1,GLOBO PREMIUM PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11519.ts
-#EXTINF:-1,HOLLYWOOD HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11571.ts
-#EXTINF:-1,Localvisao TV HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11568.ts
-#EXTINF:-1,MCM TOP PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11518.ts
-#EXTINF:-1,MCS EXTREME PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11517.ts
-#EXTINF:-1,NAT GEO WILD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11516.ts
-#EXTINF:-1,PORTO CANAL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11570.ts
-#EXTINF:-1,RTP 1 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11564.ts
-#EXTINF:-1,RTP 2 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11563.ts
-#EXTINF:-1,RTP 2 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11562.ts
-#EXTINF:-1,RTP MADEIRA PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11567.ts
-#EXTINF:-1,RTP Memoria PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11566.ts
-#EXTINF:-1,RTP1 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11561.ts
-#EXTINF:-1,SIC CARAS HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11560.ts
-#EXTINF:-1,SIC FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11559.ts
-#EXTINF:-1,SIC HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11558.ts
-#EXTINF:-1,Sic K HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11565.ts
-#EXTINF:-1,SIC NOTICIAS HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11557.ts
-#EXTINF:-1,SIC RADICAL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11556.ts
-#EXTINF:-1,SPORTV 1 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11554.ts
-#EXTINF:-1,SPORTV 1 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11553.ts
-#EXTINF:-1,SPORTV 2 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11552.ts
-#EXTINF:-1,SPORTV 2 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11551.ts
-#EXTINF:-1,SPORTV 3 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11550.ts
-#EXTINF:-1,SPORTV 3 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11549.ts
-#EXTINF:-1,SPORTV 4 FULL   PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11548.ts
-#EXTINF:-1,SPORTV 4 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11547.ts
-#EXTINF:-1,SPORTV 5 FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11546.ts
-#EXTINF:-1,SPORTV 5 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11545.ts
-#EXTINF:-1,SPORTV HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11555.ts
-#EXTINF:-1,SYFY HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11544.ts
-#EXTINF:-1,TCV INTERNACIONAL PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11533.ts
-#EXTINF:-1,TV SERIES HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11543.ts
-#EXTINF:-1,TVCINE 1 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11542.ts
-#EXTINF:-1,TVCINE 2 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11541.ts
-#EXTINF:-1,TVCINE 3 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11540.ts
-#EXTINF:-1,TVCINE 4 HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11539.ts
-#EXTINF:-1,TVI 24 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11538.ts
-#EXTINF:-1,TVI FICÇAO PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11537.ts
-#EXTINF:-1,TVI FULL HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11536.ts
-#EXTINF:-1,TVI HD PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11535.ts
-#EXTINF:-1,TVI REALITY CAMARA 1 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11531.ts
-#EXTINF:-1,TVI REALITY CAMARA 2 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11530.ts
-#EXTINF:-1,TVI REALITY CAMARA 3 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11529.ts
-#EXTINF:-1,TVI REALITY CAMARA 4 PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11528.ts
-#EXTINF:-1,TVI REALITY MOSAICO PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11527.ts
-#EXTINF:-1,TVI REALITY PT
-http://slingiptv.ddns.net:9999/live/mXbFCH5QR2/9CAeXfnO8p/11532.ts
-
-#EXTINF:-1,PT: FUEL TV
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2328.ts
-#EXTINF:-1,PT:A BOLA TV
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2327.ts
-#EXTINF:-1,PT:AXN BLACK HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2342.ts
-#EXTINF:-1,PT:AXN HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2344.ts
-#EXTINF:-1,PT:AXN WHITE HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2343.ts
-#EXTINF:-1,PT:BENFICA TV HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2305.ts
-#EXTINF:-1,PT:CANAL PANDA
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2319.ts
-#EXTINF:-1,PT:CARTOON NETWORK
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2315.ts
-#EXTINF:-1,PT:CINEMUNDO
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2331.ts
-#EXTINF:-1,PT:DISCOVERY HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2312.ts
-#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2309.ts
-#EXTINF:-1,PT:DISNEY CHANNEL HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2316.ts
-#EXTINF:-1,PT:DISNEY JUNIOR HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2317.ts
-#EXTINF:-1,PT:EUROSPORT 1
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2304.ts
-#EXTINF:-1,PT:EUROSPORT 2
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2303.ts
-#EXTINF:-1,PT:FOX COMEDY HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2337.ts
-#EXTINF:-1,PT:FOX CRIME HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2339.ts
-#EXTINF:-1,PT:FOX HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2341.ts
-#EXTINF:-1,PT:FOX LIFE HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2340.ts
-#EXTINF:-1,PT:FOX MOVIES HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2338.ts
-#EXTINF:-1,PT:HISTORIA HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2313.ts
-#EXTINF:-1,PT:HOLLYWOOD HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2336.ts
-#EXTINF:-1,PT:MOTORS TV
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2307.ts
-#EXTINF:-1,PT:NAT GEO WILD HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2311.ts
-#EXTINF:-1,PT:NAT GEOGRAPHIC HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2310.ts
-#EXTINF:-1,PT:NICKELODEON HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2318.ts
-#EXTINF:-1,PT:PANDA PIGGS HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2325.ts
-#EXTINF:-1,PT:PORTO CANAL
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2326.ts
-#EXTINF:-1,PT:RTP 1 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2360.ts
-#EXTINF:-1,PT:RTP 2 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2359.ts
-#EXTINF:-1,PT:RTP 3 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2358.ts
-#EXTINF:-1,PT:RTP AFRICA
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2357.ts
-#EXTINF:-1,PT:RTP MEMORIA
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2355.ts
+#EXTINF:-1,PT:24Kitchen
+http://tv2iptv.com:8000/live/mic1/45464uy/8078.ts
+#EXTINF:-1,PT:A&E
+http://tv2iptv.com:8000/live/mic1/45464uy/8098.ts
+#EXTINF:-1,PT:ABOLA_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/8118.ts
+#EXTINF:-1,PT:AFRO_MUSIC
+http://tv2iptv.com:8000/live/mic1/45464uy/8092.ts
+#EXTINF:-1,PT:AMC
+http://tv2iptv.com:8000/live/mic1/45464uy/8137.ts
+#EXTINF:-1,PT:AXN_BLACK_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8144.ts
+#EXTINF:-1,PT:AXN_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8146.ts
+#EXTINF:-1,PT:AXN_WHITE_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8145.ts
+#EXTINF:-1,PT:bABY_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/8082.ts
+#EXTINF:-1,PT:Benfica_TV_FullHD
+http://tv2iptv.com:8000/live/mic1/45464uy/8123.ts
+#EXTINF:-1,PT:biggs
+http://tv2iptv.com:8000/live/mic1/45464uy/8072.ts
+#EXTINF:-1,PT:BTV_1
+http://tv2iptv.com:8000/live/mic1/45464uy/5081.ts
+#EXTINF:-1,PT:BTV_1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8122.ts
+#EXTINF:-1,PT:cacavision
+http://tv2iptv.com:8000/live/mic1/45464uy/8099.ts
+#EXTINF:-1,PT:Caca_&_Pesca
+http://tv2iptv.com:8000/live/mic1/45464uy/8100.ts
+#EXTINF:-1,PT:Canal_Historia_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8101.ts
+#EXTINF:-1,PT:CANAL_PANDA
+http://tv2iptv.com:8000/live/mic1/45464uy/8079.ts
+#EXTINF:-1,PT:Cartoon_NetWork
+http://tv2iptv.com:8000/live/mic1/45464uy/8080.ts
+#EXTINF:-1,PT:CBC_REALITY
+http://tv2iptv.com:8000/live/mic1/45464uy/8073.ts
+#EXTINF:-1,PT:chealse_TV_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8113.ts
+#EXTINF:-1,PT:CMTV
+http://tv2iptv.com:8000/live/mic1/45464uy/8158.ts
+#EXTINF:-1,PT:Discovery_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8105.ts
+#EXTINF:-1,PT:DISCOVERY_HD_SHOWCASE
+http://tv2iptv.com:8000/live/mic1/45464uy/8071.ts
+#EXTINF:-1,PT:Disney_Channel
+http://tv2iptv.com:8000/live/mic1/45464uy/8085.ts
+#EXTINF:-1,PT:Disney_Junior
+http://tv2iptv.com:8000/live/mic1/45464uy/8086.ts
+#EXTINF:-1,PT:E!_Entertaunment
+http://tv2iptv.com:8000/live/mic1/45464uy/8094.ts
+#EXTINF:-1,PT:EURONEWS
+http://tv2iptv.com:8000/live/mic1/45464uy/8070.ts
+#EXTINF:-1,PT:EuroSport1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8117.ts
+#EXTINF:-1,PT:EuroSport2_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8116.ts
+#EXTINF:-1,PT:FOX_COMEDY
+http://tv2iptv.com:8000/live/mic1/45464uy/8138.ts
+#EXTINF:-1,PT:FOX_Crime_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8139.ts
+#EXTINF:-1,PT:Fox_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8140.ts
+#EXTINF:-1,PT:Fox_Life_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8141.ts
+#EXTINF:-1,PT:FOX_Movies
+http://tv2iptv.com:8000/live/mic1/45464uy/8142.ts
+#EXTINF:-1,PT:FUEL_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/8093.ts
+#EXTINF:-1,PT:FX
+http://tv2iptv.com:8000/live/mic1/45464uy/8143.ts
+#EXTINF:-1,PT:HollyWood_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8148.ts
+#EXTINF:-1,PT:JIM_JAM
+http://tv2iptv.com:8000/live/mic1/45464uy/8081.ts
+#EXTINF:-1,PT:MCM_POP
+http://tv2iptv.com:8000/live/mic1/45464uy/8090.ts
+#EXTINF:-1,PT:Motors_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/8106.ts
+#EXTINF:-1,PT:MOV_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8147.ts
+#EXTINF:-1,PT:MTV
+http://tv2iptv.com:8000/live/mic1/45464uy/8091.ts
+#EXTINF:-1,PT:Nat_Geographic_Channel
+http://tv2iptv.com:8000/live/mic1/45464uy/8104.ts
+#EXTINF:-1,PT:Nat_Geo_Wild
+http://tv2iptv.com:8000/live/mic1/45464uy/8103.ts
+#EXTINF:-1,PT:Nickelodeon
+http://tv2iptv.com:8000/live/mic1/45464uy/8083.ts
+#EXTINF:-1,PT:Odisseia
+http://tv2iptv.com:8000/live/mic1/45464uy/8102.ts
+#EXTINF:-1,PT:Panda_Biggs
+http://tv2iptv.com:8000/live/mic1/45464uy/8084.ts
+#EXTINF:-1,PT:PFC_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8077.ts
+#EXTINF:-1,PT:Porto_Canal
+http://tv2iptv.com:8000/live/mic1/45464uy/8120.ts
+#EXTINF:-1,PT:REALMADRID_TV_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8121.ts
+#EXTINF:-1,PT:RTP1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8162.ts
+#EXTINF:-1,PT:RTP2
+http://tv2iptv.com:8000/live/mic1/45464uy/8161.ts
+#EXTINF:-1,PT:RTP_3
+http://tv2iptv.com:8000/live/mic1/45464uy/5078.ts
+#EXTINF:-1,PT:RTP_Acores
+http://tv2iptv.com:8000/live/mic1/45464uy/8108.ts
+#EXTINF:-1,PT:RTP_África
+http://tv2iptv.com:8000/live/mic1/45464uy/8109.ts
+#EXTINF:-1,PT:RTP_int
+http://tv2iptv.com:8000/live/mic1/45464uy/8112.ts
+#EXTINF:-1,PT:RTP_Madeira
+http://tv2iptv.com:8000/live/mic1/45464uy/8110.ts
+#EXTINF:-1,PT:RTP_Memoria
+http://tv2iptv.com:8000/live/mic1/45464uy/8111.ts
 #EXTINF:-1,PT:SIC
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2353.ts
-#EXTINF:-1,PT:SIC CARAS HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2349.ts
-#EXTINF:-1,PT:SIC KIDS
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2352.ts
-#EXTINF:-1,PT:SIC NOTICIAS
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2350.ts
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2302.ts
-#EXTINF:-1,PT:SPORT TV 2 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2301.ts
-#EXTINF:-1,PT:SPORT TV 3 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2300.ts
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2299.ts
-#EXTINF:-1,PT:SPORT TV 5 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2298.ts
-#EXTINF:-1,PT:SPORTING TV HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2297.ts
-#EXTINF:-1,PT:SYFY
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2335.ts
-#EXTINF:-1,PT:TVCINE 1 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2323.ts
-#EXTINF:-1,PT:TVCINE 2 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2322.ts
-#EXTINF:-1,PT:TVCINE 3 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2321.ts
-#EXTINF:-1,PT:TVCINE 4 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2320.ts
+http://tv2iptv.com:8000/live/mic1/45464uy/5077.ts
+#EXTINF:-1,PT:SIC_CARAS
+http://tv2iptv.com:8000/live/mic1/45464uy/8107.ts
+#EXTINF:-1,PT:SIC_Kids
+http://tv2iptv.com:8000/live/mic1/45464uy/8087.ts
+#EXTINF:-1,PT:SIC_MULHER
+http://tv2iptv.com:8000/live/mic1/45464uy/5076.ts
+#EXTINF:-1,PT:SIC_noticias
+http://tv2iptv.com:8000/live/mic1/45464uy/8160.ts
+#EXTINF:-1,PT:Sic_Radical
+http://tv2iptv.com:8000/live/mic1/45464uy/5075.ts
+#EXTINF:-1,PT:Sporting_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/5074.ts
+#EXTINF:-1,PT:SportTV1
+http://tv2iptv.com:8000/live/mic1/45464uy/8132.ts
+#EXTINF:-1,PT:SportTV2
+http://tv2iptv.com:8000/live/mic1/45464uy/8131.ts
+#EXTINF:-1,PT:SportTV3
+http://tv2iptv.com:8000/live/mic1/45464uy/8130.ts
+#EXTINF:-1,PT:SportTV4
+http://tv2iptv.com:8000/live/mic1/45464uy/8129.ts
+#EXTINF:-1,PT:SportTV5
+http://tv2iptv.com:8000/live/mic1/45464uy/8124.ts
+#EXTINF:-1,PT:SPORT_TV_1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5069.ts
+#EXTINF:-1,PT:SPORT_TV_2_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5068.ts
+#EXTINF:-1,PT:SPORT_TV_3_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5067.ts
+#EXTINF:-1,PT:syfy
+http://tv2iptv.com:8000/live/mic1/45464uy/8135.ts
+#EXTINF:-1,PT:TIGO_MUSIC
+http://tv2iptv.com:8000/live/mic1/45464uy/8095.ts
+#EXTINF:-1,PT:TLC
+http://tv2iptv.com:8000/live/mic1/45464uy/8096.ts
+#EXTINF:-1,PT:Toros_TV
+http://tv2iptv.com:8000/live/mic1/45464uy/8097.ts
+#EXTINF:-1,PT:TVCine3_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8152.ts
+#EXTINF:-1,PT:TVCine4_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8151.ts
+#EXTINF:-1,PT:TVCINE_1
+http://tv2iptv.com:8000/live/mic1/45464uy/5073.ts
+#EXTINF:-1,PT:TVCine_1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8154.ts
+#EXTINF:-1,PT:TVCINE_2
+http://tv2iptv.com:8000/live/mic1/45464uy/5072.ts
+#EXTINF:-1,PT:TVCine_2_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8153.ts
+#EXTINF:-1,PT:TVCINE_3
+http://tv2iptv.com:8000/live/mic1/45464uy/5071.ts
+#EXTINF:-1,PT:TVCINE_4
+http://tv2iptv.com:8000/live/mic1/45464uy/5070.ts
 #EXTINF:-1,PT:TVI
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2348.ts
-#EXTINF:-1,PT:TVI 24 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2347.ts
-#EXTINF:-1,PT:TVI FACCAO
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2345.ts
-#EXTINF:-1,PT:TVI REALITY HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2346.ts
-#EXTINF:-1,PT:VH 1 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2329.ts
-#EXTINF:-1,PL:Eska Best Music HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2594.ts
-#EXTINF:-1,PL:Eska Party TV HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2595.ts
-#EXTINF:-1,PL:Eska Rock TV HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2596.ts
-#EXTINF:-1,PL:Wawa TV HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2599.ts
-#EXTINF:-1,PL:COMEDY CENTRAL
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2282.ts
-#EXTINF:-1,PL:POLSAT CAFE
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2280.ts
-#EXTINF:-1,PL:POLSAT FILM HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2279.ts
-#EXTINF:-1,PL:POLSAT HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2278.ts
-#EXTINF:-1,PL:POLSAT PLAY
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2277.ts
-#EXTINF:-1,PL:POLSAT SPORT EXTRA HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2276.ts
-#EXTINF:-1,PL:POLSAT SPORT HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2275.ts
-#EXTINF:-1,PL:TVN HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2274.ts
-#EXTINF:-1,PL:TVN STYLE
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2273.ts
-#EXTINF:-1,PL:TVN TURBO
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2272.ts
-#EXTINF:-1,PL:TVP 1 HD
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2270.ts
-#EXTINF:-1,PL:TVP SERIALE
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2271.ts
-#EXTINF:-1,PL:TVP3
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2268.ts
+http://tv2iptv.com:8000/live/mic1/45464uy/5082.ts
+#EXTINF:-1,PT:TVI_24
+http://tv2iptv.com:8000/live/mic1/45464uy/8159.ts
+#EXTINF:-1,PT:Tvi_ficcao
+http://tv2iptv.com:8000/live/mic1/45464uy/8157.ts
+#EXTINF:-1,PT:TVI_REALITY
+http://tv2iptv.com:8000/live/mic1/45464uy/8156.ts
+#EXTINF:-1,PT:TV_Globo
+http://tv2iptv.com:8000/live/mic1/45464uy/8074.ts
+#EXTINF:-1,PT:TV_Globo_Premium
+http://tv2iptv.com:8000/live/mic1/45464uy/8075.ts
+#EXTINF:-1,PT:TV_PALAMENTO
+http://tv2iptv.com:8000/live/mic1/45464uy/8115.ts
+#EXTINF:-1,PT:TV_Record
+http://tv2iptv.com:8000/live/mic1/45464uy/8076.ts
+#EXTINF:-1,PT:TV_Series_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/8150.ts
+#EXTINF:-1,PT:vh1_SHUFFLE
+http://tv2iptv.com:8000/live/mic1/45464uy/8089.ts
+
+#EXTINF:-1,PT-24-Kitchen
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8176.ts
+#EXTINF:-1,PT-A&E
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8175.ts
+#EXTINF:-1,PT-AFRO-MUSIC
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8123.ts
+#EXTINF:-1,PT-AMC-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8122.ts
+#EXTINF:-1,PT-AXN-BLACK-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8121.ts
+#EXTINF:-1,PT-AXN-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8120.ts
+#EXTINF:-1,PT-AXN-WHITE-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8174.ts
+#EXTINF:-1,PT-BABY-FIRST
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8173.ts
+#EXTINF:-1,PT-BBC-ENTERTAINMENT
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8172.ts
+#EXTINF:-1,PT-BBC-WORLD-NEWS
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8171.ts
+#EXTINF:-1,PT-Biggs
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8170.ts
+#EXTINF:-1,PT-BLOOMBERG
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8169.ts
+#EXTINF:-1,PT-BTV-1FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8189.ts
+#EXTINF:-1,PT-BTV-1HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8168.ts
+#EXTINF:-1,PT-CACA-E-PESCA
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8119.ts
+#EXTINF:-1,PT-Canal Panda
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8167.ts
+#EXTINF:-1,PT-Cancao-Nova
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8118.ts
+#EXTINF:-1,PT-Cartoon Network
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8166.ts
+#EXTINF:-1,PT-CBS-REALITY
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8165.ts
+#EXTINF:-1,PT-CINEMUNDO
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8164.ts
+#EXTINF:-1,PT-CMTV-FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8188.ts
+#EXTINF:-1,PT-DISCOVERY-CHANNEL
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8163.ts
+#EXTINF:-1,PT-DISCOVERY-HD-SHOWCASE
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8162.ts
+#EXTINF:-1,PT-Disney-Junior
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8161.ts
+#EXTINF:-1,PT-E!-ENTERTAINMENT
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8160.ts
+#EXTINF:-1,PT-EURONEWS
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8159.ts
+#EXTINF:-1,PT-EUROSPORT-1
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8117.ts
+#EXTINF:-1,PT-EUROSPORT-2
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8116.ts
+#EXTINF:-1,PT-EUROSPORT-NEWS
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8158.ts
+#EXTINF:-1,PT-FOX
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8157.ts
+#EXTINF:-1,PT-FOX NEWS
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8154.ts
+#EXTINF:-1,PT-FOX-COMEDY
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8156.ts
+#EXTINF:-1,PT-FOX-CRIME
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8155.ts
+#EXTINF:-1,PT-FOX-Life-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8115.ts
+#EXTINF:-1,PT-FOX-MOVIES
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8114.ts
+#EXTINF:-1,PT-GLOBO-PORTUGAL
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8113.ts
+#EXTINF:-1,PT-Globo-Premium
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8153.ts
+#EXTINF:-1,PT-HISTORIA
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8152.ts
+#EXTINF:-1,PT-HOLLYWOOD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8151.ts
+#EXTINF:-1,PT-MCM-POP
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8112.ts
+#EXTINF:-1,PT-MOTORS-TV
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8150.ts
+#EXTINF:-1,PT-MOTORVISION
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8149.ts
+#EXTINF:-1,PT-MTV PORTUGAL
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8148.ts
+#EXTINF:-1,PT-NAT-GEO-WILD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8111.ts
+#EXTINF:-1,PT-NATIONAL-GEOGRAPHIC-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8110.ts
+#EXTINF:-1,PT-Nick-Jr
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8187.ts
+#EXTINF:-1,PT-Nickelodeon
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8147.ts
+#EXTINF:-1,PT-ODISSEIA
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8146.ts
+#EXTINF:-1,PT-PFC
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8145.ts
+#EXTINF:-1,PT-PORT-TV-2FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8178.ts
+#EXTINF:-1,PT-PORTO-CANAL
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8144.ts
+#EXTINF:-1,PT-Record News
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8143.ts
+#EXTINF:-1,PT-RTP Mem?ria
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8139.ts
+#EXTINF:-1,PT-RTP-1FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8179.ts
+#EXTINF:-1,PT-RTP-2FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8186.ts
+#EXTINF:-1,PT-RTP1
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8142.ts
+#EXTINF:-1,PT-RTP2
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8141.ts
+#EXTINF:-1,PT-RTP3
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8140.ts
+#EXTINF:-1,PT-SIC
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8138.ts
+#EXTINF:-1,PT-SIC-Caras
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8137.ts
+#EXTINF:-1,PT-SIC-FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8185.ts
+#EXTINF:-1,PT-SIC-K
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8136.ts
+#EXTINF:-1,PT-SIC-Mulher
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8135.ts
+#EXTINF:-1,PT-SIC-Radical
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8134.ts
+#EXTINF:-1,PT-SPORT-TV
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8133.ts
+#EXTINF:-1,PT-SPORT-TV FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8184.ts
+#EXTINF:-1,PT-SPORT-TV-1HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8109.ts
+#EXTINF:-1,PT-SPORT-TV-1ULTRAFHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8183.ts
+#EXTINF:-1,PT-SPORT-TV-2HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8131.ts
+#EXTINF:-1,PT-SPORT-TV-3FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8182.ts
+#EXTINF:-1,PT-SPORT-TV-3HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8107.ts
+#EXTINF:-1,PT-SPORT-TV-4
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8106.ts
+#EXTINF:-1,PT-SPORT-TV-4FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8181.ts
+#EXTINF:-1,PT-SPORT-TV-4HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8105.ts
+#EXTINF:-1,PT-SPORT-TV-5FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8177.ts
+#EXTINF:-1,PT-SPORT-TV-5HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8129.ts
+#EXTINF:-1,PT-SPORT-TV1
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8132.ts
+#EXTINF:-1,PT-SPORT-TV2
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8108.ts
+#EXTINF:-1,PT-SPORT-TV3
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8130.ts
+#EXTINF:-1,PT-SPORT-TV5
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8104.ts
+#EXTINF:-1,PT-SPORTING-TV
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8103.ts
+#EXTINF:-1,PT-SYFY
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8102.ts
+#EXTINF:-1,PT-TLC
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8101.ts
+#EXTINF:-1,PT-Toros-TV-HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8128.ts
+#EXTINF:-1,PT-TPA-INTERNACIONAL
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8088.ts
+#EXTINF:-1,PT-TV Galicia
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8127.ts
+#EXTINF:-1,PT-TV SERIES
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8100.ts
+#EXTINF:-1,PT-TVCINE-1
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8099.ts
+#EXTINF:-1,PT-TVCINE-1HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8098.ts
+#EXTINF:-1,PT-TVCINE-2
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8097.ts
+#EXTINF:-1,PT-TVCINE-2HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8096.ts
+#EXTINF:-1,PT-TVCINE-3
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8095.ts
+#EXTINF:-1,PT-TVCINE-3HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8094.ts
+#EXTINF:-1,PT-TVCINE-4
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8093.ts
+#EXTINF:-1,PT-TVCINE-4HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8126.ts
+#EXTINF:-1,PT-TVI
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8125.ts
+#EXTINF:-1,PT-TVI HD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8091.ts
+#EXTINF:-1,PT-TVI-24
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8092.ts
+#EXTINF:-1,PT-TVI-FHD
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8180.ts
+#EXTINF:-1,PT-TVI-Reality
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8090.ts
+#EXTINF:-1,PT-VH1
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8089.ts
+#EXTINF:-1,PT-VH1-Classic
+http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8124.ts
+
+#EXTINF:-1,PT: AMC HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9646.ts
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9645.ts
+#EXTINF:-1,PT: AXN HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9644.ts
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9643.ts
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9642.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9641.ts
+#EXTINF:-1,PT: FOX Movies HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9640.ts
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9639.ts
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9638.ts
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9637.ts
+#EXTINF:-1,PT: FOX HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9636.ts
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9635.ts
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9634.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9633.ts
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9632.ts
+#EXTINF:-1,PT: SPORT TV HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16057.ts
+#EXTINF:-1,PT: SPORT TV 1 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16056.ts
+#EXTINF:-1,PT: SPORT TV 2 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16055.ts
+#EXTINF:-1,PT: SPORT TV 3 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16054.ts
+#EXTINF:-1,PT: SPORT TV 4 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16053.ts
+#EXTINF:-1,PT: SPORT TV 5 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16052.ts
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9625.ts
+#EXTINF:-1,PT: TVCINE 1 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16051.ts
+#EXTINF:-1,PT: TVCINE 2 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16050.ts
+#EXTINF:-1,PT: TVCINE 3 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16049.ts
+#EXTINF:-1,PT: TVCINE 4 HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16048.ts
+#EXTINF:-1,PT: SyFy HD 1080
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9624.ts
+#EXTINF:-1,PT: Sport TV1
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6494.ts
+#EXTINF:-1,PT: Sport TV2
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6495.ts
+#EXTINF:-1,PT: Sport TV3
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6496.ts
+#EXTINF:-1,PT: Sport TV4
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6497.ts
+#EXTINF:-1,PT: Sport TV5
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6498.ts
+#EXTINF:-1,PT: TV Cine 1HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6499.ts
+#EXTINF:-1,PT: TV Cine 2HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6500.ts
+#EXTINF:-1,PT: TV Cine 3HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6501.ts
+#EXTINF:-1,PT: TV Cine 4HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6502.ts
+#EXTINF:-1,PT: TV SERIES
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6503.ts
+#EXTINF:-1,PT: RTP 1
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3643.ts
+#EXTINF:-1,PT: RTP 2 HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5427.ts
+#EXTINF:-1,PT: RTP 2
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3654.ts
+#EXTINF:-1,PT: RTP 3
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3642.ts
+#EXTINF:-1,PT: SIC
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4476.ts
+#EXTINF:-1,PT: TVI HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/955.ts
+#EXTINF:-1,PT: TVI
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4477.ts
+#EXTINF:-1,PT: 24 Kitchen HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12609.ts
+#EXTINF:-1,PT: A Bola TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4482.ts
+#EXTINF:-1,PT: A&E
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4495.ts
+#EXTINF:-1,PT: AandE TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12599.ts
+#EXTINF:-1,PT: Afro Music
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4496.ts
+#EXTINF:-1,PT: AMC
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3667.ts
+#EXTINF:-1,PT: AR TV HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12604.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4669.ts
+#EXTINF:-1,PT: AXN HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4667.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4668.ts
+#EXTINF:-1,PT: Baby First
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12624.ts
+#EXTINF:-1,PT: BABY TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3666.ts
+#EXTINF:-1,PT: BH News
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12608.ts
+#EXTINF:-1,PT: Biggs
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12623.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3645.ts
+#EXTINF:-1,PT: Caçae Pesca
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12627.ts
+#EXTINF:-1,PT: CAÇÃVISION
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4666.ts
+#EXTINF:-1,PT: Canal de Historia
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3665.ts
+#EXTINF:-1,PT: Canal Panda
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3664.ts
+#EXTINF:-1,PT: Cinemundo
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3663.ts
+#EXTINF:-1,PT: CM TV HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/15202.ts
+#EXTINF:-1,PT: CM TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3662.ts
+#EXTINF:-1,PT: Crime & Incvestigation
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12598.ts
+#EXTINF:-1,PT: Discovery Channel
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4490.ts
+#EXTINF:-1,PT: Discovery Showcase HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12597.ts
+#EXTINF:-1,PT: Disney Channel
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4493.ts
+#EXTINF:-1,PT: Disney Junior
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3661.ts
+#EXTINF:-1,PT: E! Entertainment
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12621.ts
+#EXTINF:-1,PT: EuroNews
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12626.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12367.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1520.ts
+#EXTINF:-1,PT: Eurosport News
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4483.ts
+#EXTINF:-1,PT: FightBOX HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12602.ts
+#EXTINF:-1,PT: Food Netword
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12607.ts
+#EXTINF:-1,PT: FOX Comedy
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4488.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4665.ts
+#EXTINF:-1,PT: FOX HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4664.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4663.ts
+#EXTINF:-1,PT: FOX Movies
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4489.ts
+#EXTINF:-1,PT: FOX News
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12622.ts
+#EXTINF:-1,PT: France 24
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12616.ts
+#EXTINF:-1,PT: Fuel TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4484.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4661.ts
+#EXTINF:-1,PT: Hollywood HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4486.ts
+#EXTINF:-1,PT: JIM JAM
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3660.ts
+#EXTINF:-1,PT: JR News
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12606.ts
+#EXTINF:-1,PT: MCM TOP
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4498.ts
+#EXTINF:-1,PT: My Cuisine
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12625.ts
+#EXTINF:-1,PT: MCS LifeStyle
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12596.ts
+#EXTINF:-1,PT: MOTORS TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3659.ts
+#EXTINF:-1,PT: Motorvision
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4485.ts
+#EXTINF:-1,PT: MTV Dance
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4497.ts
+#EXTINF:-1,PT: Mtv Portugal
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3658.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4491.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4662.ts
+#EXTINF:-1,PT: NBA HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12603.ts
+#EXTINF:-1,PT: Nickelodeon
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3657.ts
+#EXTINF:-1,PT: ODISSEIA
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1517.ts
+#EXTINF:-1,PT: Panda
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4492.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3656.ts
+#EXTINF:-1,PT: PFC
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4660.ts
+#EXTINF:-1,PT: Porto Canal
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3655.ts
+#EXTINF:-1,PT: Regiões TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12620.ts
+#EXTINF:-1,PT: RTP Açores
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4481.ts
+#EXTINF:-1,PT: RTP Africa
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4480.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3653.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3652.ts
+#EXTINF:-1,PT: SIC K
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3651.ts
+#EXTINF:-1,PT: Sic Kids
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4494.ts
+#EXTINF:-1,PT: Sic Caras
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/14615.ts
+#EXTINF:-1,PT: SIC MULHER
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3650.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3649.ts
+#EXTINF:-1,PT: SIC Radical
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4479.ts
+#EXTINF:-1,PT: SKYNews
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12615.ts
+#EXTINF:-1,PT: STV MOZAMBIQUE
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12613.ts
+#EXTINF:-1,PT: STV Noticias
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12619.ts
+#EXTINF:-1,PT: SUNDANCE HD 1080P
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12600.ts
+#EXTINF:-1,PT: DOG HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/14629.ts
+#EXTINF:-1,PT: SyFy
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4487.ts
+#EXTINF:-1,PT: TCV Cabo Verde
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12612.ts
+#EXTINF:-1,PT: TLC
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12611.ts
+#EXTINF:-1,PT: Toros TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12610.ts
+#EXTINF:-1,PT: TPA ANGOLA
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12614.ts
+#EXTINF:-1,PT: Trace TV
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12617.ts
+#EXTINF:-1,PT: Travel HD
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12605.ts
+#EXTINF:-1,PT: TV Globo
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5426.ts
+#EXTINF:-1,PT: Tv Record
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3648.ts
+#EXTINF:-1,PT: Tvi 24
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3647.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3646.ts
+#EXTINF:-1,PT: TVI Reality
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4478.ts
+#EXTINF:-1,PT: VH1
+http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12618.ts
+
+#EXTINF:-1,PT: A Bola TV
+http://akincimedia.com:1453/live/huseyin/cetin/71032.ts
+#EXTINF:-1,PT: A E
+http://akincimedia.com:1453/live/huseyin/cetin/70984.ts
+#EXTINF:-1,PT: Afro Music
+http://akincimedia.com:1453/live/huseyin/cetin/70970.ts
+#EXTINF:-1,PT: AMC
+http://akincimedia.com:1453/live/huseyin/cetin/71002.ts
+#EXTINF:-1,PT: AXN HD
+http://akincimedia.com:1453/live/huseyin/cetin/71012.ts
+#EXTINF:-1,PT: AXN White
+http://akincimedia.com:1453/live/huseyin/cetin/71010.ts
+#EXTINF:-1,PT: Barca TV
+http://akincimedia.com:1453/live/huseyin/cetin/71023.ts
+#EXTINF:-1,PT: Benfica TV
+http://akincimedia.com:1453/live/huseyin/cetin/71030.ts
+#EXTINF:-1,PT: Benfica TV HD
+http://akincimedia.com:1453/live/huseyin/cetin/71031.ts
+#EXTINF:-1,PT: Biggs
+http://akincimedia.com:1453/live/huseyin/cetin/70995.ts
+#EXTINF:-1,PT: Ca
+http://akincimedia.com:1453/live/huseyin/cetin/70979.ts
+#EXTINF:-1,PT: Canal Panda
+http://akincimedia.com:1453/live/huseyin/cetin/70994.ts
+#EXTINF:-1,PT: Canal Q
+http://akincimedia.com:1453/live/huseyin/cetin/70985.ts
+#EXTINF:-1,PT: Capital TV
+http://akincimedia.com:1453/live/huseyin/cetin/70969.ts
+#EXTINF:-1,PT: Cartoon Network
+http://akincimedia.com:1453/live/huseyin/cetin/70997.ts
+#EXTINF:-1,PT: CBS Reality
+http://akincimedia.com:1453/live/huseyin/cetin/70983.ts
+#EXTINF:-1,PT: Chelsea TV
+http://akincimedia.com:1453/live/huseyin/cetin/71024.ts
+#EXTINF:-1,PT: Cinemundo
+http://akincimedia.com:1453/live/huseyin/cetin/71014.ts
+#EXTINF:-1,PT: CMTV
+http://akincimedia.com:1453/live/huseyin/cetin/71048.ts
+#EXTINF:-1,PT: Discovery Channel
+http://akincimedia.com:1453/live/huseyin/cetin/70987.ts
+#EXTINF:-1,PT: Discovery Showcase
+http://akincimedia.com:1453/live/huseyin/cetin/70986.ts
+#EXTINF:-1,PT: Disney Channel
+http://akincimedia.com:1453/live/huseyin/cetin/70993.ts
+#EXTINF:-1,PT: Disney Junior
+http://akincimedia.com:1453/live/huseyin/cetin/70992.ts
+#EXTINF:-1,PT: E!Entertainment
+http://akincimedia.com:1453/live/huseyin/cetin/70982.ts
+#EXTINF:-1,PT: Eurosport 1
+http://akincimedia.com:1453/live/huseyin/cetin/71028.ts
+#EXTINF:-1,PT: Eurosport 2
+http://akincimedia.com:1453/live/huseyin/cetin/71027.ts
+#EXTINF:-1,PT: FOX Comedy
+http://akincimedia.com:1453/live/huseyin/cetin/71009.ts
+#EXTINF:-1,PT: Fox Crime
+http://akincimedia.com:1453/live/huseyin/cetin/71005.ts
+#EXTINF:-1,PT: FOX HD
+http://akincimedia.com:1453/live/huseyin/cetin/71008.ts
+#EXTINF:-1,PT: FOX Life HD
+http://akincimedia.com:1453/live/huseyin/cetin/71007.ts
+#EXTINF:-1,PT: FOX Movies
+http://akincimedia.com:1453/live/huseyin/cetin/71006.ts
+#EXTINF:-1,PT: Historia
+http://akincimedia.com:1453/live/huseyin/cetin/70991.ts
+#EXTINF:-1,PT: Hollywood
+http://akincimedia.com:1453/live/huseyin/cetin/71004.ts
+#EXTINF:-1,PT: HOT
+http://akincimedia.com:1453/live/huseyin/cetin/70966.ts
+#EXTINF:-1,PT: JimJam
+http://akincimedia.com:1453/live/huseyin/cetin/70996.ts
+#EXTINF:-1,PT: Kombat Sport
+http://akincimedia.com:1453/live/huseyin/cetin/71021.ts
+#EXTINF:-1,PT: MCM POP
+http://akincimedia.com:1453/live/huseyin/cetin/70977.ts
+#EXTINF:-1,PT: Motorvision
+http://akincimedia.com:1453/live/huseyin/cetin/71022.ts
+#EXTINF:-1,PT: MTV Portugal
+http://akincimedia.com:1453/live/huseyin/cetin/70975.ts
+#EXTINF:-1,PT: Nat Geo
+http://akincimedia.com:1453/live/huseyin/cetin/70989.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://akincimedia.com:1453/live/huseyin/cetin/70988.ts
+#EXTINF:-1,PT: Nickelodeon
+http://akincimedia.com:1453/live/huseyin/cetin/70998.ts
+#EXTINF:-1,PT: Odissea
+http://akincimedia.com:1453/live/huseyin/cetin/70990.ts
+#EXTINF:-1,PT: One1
+http://akincimedia.com:1453/live/huseyin/cetin/70968.ts
+#EXTINF:-1,PT: Playboy
+http://akincimedia.com:1453/live/huseyin/cetin/70964.ts
+#EXTINF:-1,PT: Porto Canal
+http://akincimedia.com:1453/live/huseyin/cetin/71047.ts
+#EXTINF:-1,PT: Real Madrid TV
+http://akincimedia.com:1453/live/huseyin/cetin/71025.ts
+#EXTINF:-1,PT: RTP 1
+http://akincimedia.com:1453/live/huseyin/cetin/71065.ts
+#EXTINF:-1,PT: RTP 2
+http://akincimedia.com:1453/live/huseyin/cetin/71064.ts
+#EXTINF:-1,PT: RTP 3
+http://akincimedia.com:1453/live/huseyin/cetin/71051.ts
+#EXTINF:-1,PT: RTP Acores
+http://akincimedia.com:1453/live/huseyin/cetin/71059.ts
+#EXTINF:-1,PT: RTP Africa
+http://akincimedia.com:1453/live/huseyin/cetin/71057.ts
+#EXTINF:-1,PT: RTP Madeira
+http://akincimedia.com:1453/live/huseyin/cetin/71058.ts
+#EXTINF:-1,PT: SIC
+http://akincimedia.com:1453/live/huseyin/cetin/71063.ts
+#EXTINF:-1,PT: SIC CARAS
+http://akincimedia.com:1453/live/huseyin/cetin/71056.ts
+#EXTINF:-1,PT: SIC K
+http://akincimedia.com:1453/live/huseyin/cetin/70999.ts
+#EXTINF:-1,PT: Sic Mulher
+http://akincimedia.com:1453/live/huseyin/cetin/71055.ts
+#EXTINF:-1,PT: SIC Noticias
+http://akincimedia.com:1453/live/huseyin/cetin/71050.ts
+#EXTINF:-1,PT: SIC Radical
+http://akincimedia.com:1453/live/huseyin/cetin/71054.ts
+#EXTINF:-1,PT: Sport TV
+http://akincimedia.com:1453/live/huseyin/cetin/71033.ts
+#EXTINF:-1,PT: Sport TV 1
+http://akincimedia.com:1453/live/huseyin/cetin/71042.ts
+#EXTINF:-1,PT: Sport TV 2
+http://akincimedia.com:1453/live/huseyin/cetin/71040.ts
+#EXTINF:-1,PT: Sport TV 3
+http://akincimedia.com:1453/live/huseyin/cetin/71038.ts
+#EXTINF:-1,PT: Sport TV 4
+http://akincimedia.com:1453/live/huseyin/cetin/71036.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://akincimedia.com:1453/live/huseyin/cetin/71037.ts
+#EXTINF:-1,PT: Sport TV 5
+http://akincimedia.com:1453/live/huseyin/cetin/71034.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://akincimedia.com:1453/live/huseyin/cetin/71035.ts
+#EXTINF:-1,PT: Sporting TV
+http://akincimedia.com:1453/live/huseyin/cetin/71029.ts
+#EXTINF:-1,PT: SYFY
+http://akincimedia.com:1453/live/huseyin/cetin/71001.ts
+#EXTINF:-1,PT: TLC
+http://akincimedia.com:1453/live/huseyin/cetin/70981.ts
+#EXTINF:-1,PT: Toros TV
+http://akincimedia.com:1453/live/huseyin/cetin/70978.ts
+#EXTINF:-1,PT: Trace Urban TV
+http://akincimedia.com:1453/live/huseyin/cetin/70967.ts
+#EXTINF:-1,PT: TV Globo
+http://akincimedia.com:1453/live/huseyin/cetin/71046.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://akincimedia.com:1453/live/huseyin/cetin/71045.ts
+#EXTINF:-1,PT: TV Record
+http://akincimedia.com:1453/live/huseyin/cetin/71044.ts
+#EXTINF:-1,PT: TV Series
+http://akincimedia.com:1453/live/huseyin/cetin/71013.ts
+#EXTINF:-1,PT: TVC 1
+http://akincimedia.com:1453/live/huseyin/cetin/71018.ts
+#EXTINF:-1,PT: TVC 2
+http://akincimedia.com:1453/live/huseyin/cetin/71017.ts
+#EXTINF:-1,PT: TVC 3
+http://akincimedia.com:1453/live/huseyin/cetin/71016.ts
+#EXTINF:-1,PT: TVC 4
+http://akincimedia.com:1453/live/huseyin/cetin/71015.ts
+#EXTINF:-1,PT: TVi
+http://akincimedia.com:1453/live/huseyin/cetin/71062.ts
+#EXTINF:-1,PT: TVi 24
+http://akincimedia.com:1453/live/huseyin/cetin/71049.ts
+#EXTINF:-1,PT: TVi Fic
+http://akincimedia.com:1453/live/huseyin/cetin/71052.ts
+#EXTINF:-1,PT: TVi HD
+http://akincimedia.com:1453/live/huseyin/cetin/71061.ts
+#EXTINF:-1,PT: TVi Reality
+http://akincimedia.com:1453/live/huseyin/cetin/71053.ts
+#EXTINF:-1,PT: Venus
+http://akincimedia.com:1453/live/huseyin/cetin/70965.ts
+#EXTINF:-1,PT: VH1
+http://akincimedia.com:1453/live/huseyin/cetin/70972.ts
+#EXTINF:-1,PT: VH1 Classic
+http://akincimedia.com:1453/live/huseyin/cetin/70971.ts
