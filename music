@@ -1,0 +1,543 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AF) Afghanistan",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",ARIA MUSIC | SD (AF)
+http://mag.homeip.net:8080/live/gazi1/12345/10925.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AFR) Africa",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AFR) Africa",MUSIC TV | SD (AFR)
+http://mag.homeip.net:8080/live/gazi1/12345/10872.m3u8
+#EXTINF:0 group-title="(AFR) Africa",SOUNDCITY TV | SD (AFR)
+http://mag.homeip.net:8080/live/gazi1/12345/10856.m3u8
+#EXTINF:0 group-title="(AFR) Africa",TRACE | SD (AFR)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",BBF MUSIC | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14302.m3u8
+#EXTINF:0 group-title="(AL) Albania",MTV KOSOVA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14301.m3u8
+#EXTINF:0 group-title="(AL) Albania",MUSIC | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14285.m3u8
+#EXTINF:0 group-title="(AL) Albania",MY MUSIC | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14306.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO 24 POPULLORE | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14030.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO DASHURIA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14021.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO GURBETI | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14023.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO KOSOVA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14033.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO KOSOVA E LIRE | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14031.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO KOSOVARJA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14024.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO KSPORT | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14032.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO MARIMANGA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14025.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO NACIONAL TV | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14290.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO SHQIPET E FOLKLORIT | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14029.m3u8
+#EXTINF:0 group-title="(AL) Albania",RADIO VICIANUM | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14014.m3u8
+#EXTINF:0 group-title="(AL) Albania",TOP GOLD RADIO 100 8 FM TIRANA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14013.m3u8
+#EXTINF:0 group-title="(AL) Albania",TOP RADIO | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14012.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",MELODY CLASSIC | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10360.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MELODY CLASSIC (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10360.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MTV LEBANON | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10363.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MTV LEBANON (1+) | SD (AR)
+http://144.217.72.121:8000/live/nova1764/a1764/899.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MTV LEBANON (2+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10363.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC AL HANEEN | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10364.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC AL HANEEN (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10364.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALARRAB | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10365.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALARRAB (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10365.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALREMAS | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10366.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALREMAS (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10366.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MTV LIVE | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10568.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MTV LIVE (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10568.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MUSIC NOW | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10505.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MUSIC NOW (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10505.m3u8
+#EXTINF:0 group-title="(AR) Arabia",RADIO ASAL | SD (AR)
+http://66.160.192.250:8080/asaltv/live/index.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MUSIC | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10453.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MUSIC (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10453.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SHAM FM | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10467.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SHAM FM (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10467.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",BALKANIKA MUSIC | SD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11667.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",BALKANIKA MUSIC TV | HD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11668.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",MUSIC | HD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11723.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",MUSIC CHANNEL | SD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11691.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",TOP MUSIC HITS 2017 MUSIC ONLY | SD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11732.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",TRACE SPORT STARS | HD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11700.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CA) Canada",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CA) Canada",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CA) Canada",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CA) Canada",COUNTRY MUSIC TELEVISION | SD (CA)
+http://mag.homeip.net:8080/live/gazi1/12345/13391.m3u8
+#EXTINF:0 group-title="(CA) Canada",MTV | SD (CA)
+http://mag.homeip.net:8080/live/gazi1/12345/13404.m3u8
+#EXTINF:0 group-title="(CA) Canada",MTV 2 | SD (CA)
+http://mag.homeip.net:8080/live/gazi1/12345/13403.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",M6 MUSIC | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13150.m3u8
+#EXTINF:0 group-title="(FR) France",M6 MUSIC (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13150.m3u8
+#EXTINF:0 group-title="(FR) France",MTV | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13155.m3u8
+#EXTINF:0 group-title="(FR) France",MTV (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13155.m3u8
+#EXTINF:0 group-title="(FR) France",MTV HITS | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13154.m3u8
+#EXTINF:0 group-title="(FR) France",MTV HITS (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13154.m3u8
+#EXTINF:0 group-title="(FR) France",VIRGIN MUSIK | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13168.m3u8
+#EXTINF:0 group-title="(FR) France",VIRGIN MUSIK (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13168.m3u8
+#EXTINF:0 group-title="(FR) France",W9 MUSIC | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13278.m3u8
+#EXTINF:0 group-title="(FR) France",W9 MUSIC (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13278.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",MTV | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8705.m3u8
+#EXTINF:0 group-title="(DE) Germany",MTV (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8705.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",1MUSIC CHANNEL | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9920.m3u8
+#EXTINF:0 group-title="(GR) Greece",ALPHA MUSIC | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/10014.m3u8
+#EXTINF:0 group-title="(GR) Greece",CANNALI MUSIKI | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9951.m3u8
+#EXTINF:0 group-title="(GR) Greece",MUSIC CHANNE | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/11775.m3u8
+#EXTINF:0 group-title="(GR) Greece",RADIO EPISTROFI | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/10016.m3u8
+#EXTINF:0 group-title="(GR) Greece",RELOAD RADIO | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9989.m3u8
+#EXTINF:0 group-title="(GR) Greece",TILE MUSIKI | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9946.m3u8
+
+#EXTINF:0 group-title="(IN) India",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",B4U MUSIC / B4U PLUS | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10722.m3u8
+#EXTINF:0 group-title="(IN) India",MAA MUSIC | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10708.m3u8
+#EXTINF:0 group-title="(IN) India",MH1 MUSIC | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10756.m3u8
+#EXTINF:0 group-title="(IN) India",MTV | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10755.m3u8
+#EXTINF:0 group-title="(IN) India",MTV BEATS | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10657.m3u8
+#EXTINF:0 group-title="(IN) India",MUSIC | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10704.m3u8
+#EXTINF:0 group-title="(IN) India",PBN MUSIC PUNJABI | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10754.m3u8
+#EXTINF:0 group-title="(IN) India",SUN MUSIC | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10686.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",M2O MUSICA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12400.m3u8
+#EXTINF:0 group-title="(IT) Italy",M2O MUSICA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12400.m3u8
+#EXTINF:0 group-title="(IT) Italy",MUSICA | SD (IT)
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:0 group-title="(IT) Italy",OTTO 8FM TV MUSIC | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12377.m3u8
+#EXTINF:0 group-title="(IT) Italy",OTTO 8FM TV MUSIC (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12377.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO BRUNO TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12379.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO BRUNO TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12379.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO BRUNO TV MUSICA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12399.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO BRUNO TV MUSICA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12399.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO NORBA TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12373.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO NORBA TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12373.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE CAMERA TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12401.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE CAMERA TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12401.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE SENATO TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12402.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE SENATO TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12402.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12406.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO RADICALE TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12406.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TAORMINA TV MUSICA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12398.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TAORMINA TV MUSICA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12398.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12372.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12372.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TV AZZURA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12386.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO TV AZZURA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12386.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO UNIVERSAL TV | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12385.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIO UNIVERSAL TV (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12385.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIOMONTECARLO | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12374.m3u8
+#EXTINF:0 group-title="(IT) Italy",RADIOMONTECARLO (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12374.m3u8
+#EXTINF:0 group-title="(IT) Italy",RTL 102 5 TV MUSICA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12376.m3u8
+#EXTINF:0 group-title="(IT) Italy",RTL 102 5 TV MUSICA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12376.m3u8
+#EXTINF:0 group-title="(IT) Italy",TELERADIOSCIACCA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12461.m3u8
+#EXTINF:0 group-title="(IT) Italy",TELERADIOSCIACCA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12461.m3u8
+#EXTINF:0 group-title="(IT) Italy",VISUALRADIO TV MUSICA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12415.m3u8
+#EXTINF:0 group-title="(IT) Italy",VISUALRADIO TV MUSICA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12415.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",GLOBO TV MUSICA | SD (MX)
+http://mag.homeip.net:8080/live/gazi1/12345/13709.m3u8
+#EXTINF:0 group-title="(MX) Mexico",RADIO DEL AIRE 89 5 FM PLATA | SD (MX)
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",MTV | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13114.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NICK MUSIC | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13113.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PK) Pakistan",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PK) Pakistan",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PK) Pakistan",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PK) Pakistan",ARY MUSIK | SD (PK)
+http://mag.homeip.net:8080/live/gazi1/12345/10844.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",ESKA BEST MUSIC TV | SD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14415.m3u8
+#EXTINF:0 group-title="(PL) Poland",MTV MUSIC | SD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14419.m3u8
+#EXTINF:0 group-title="(PL) Poland",MTV POLSKA | SD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14420.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",MTV | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10030.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MTV (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10030.m3u8
+#EXTINF:0 group-title="(PT) Portugal",REDE GOSPEL | SD (PT)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:0 group-title="(PT) Portugal",VH1 | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10031.m3u8
+#EXTINF:0 group-title="(PT) Portugal",VH1 (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10031.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",HIT MUSIC CHANNEL | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11769.m3u8
+#EXTINF:0 group-title="(RO) Romania",MUSIC CHANNEL | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11776.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",1HD MUSIC TELEVISION | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9921.m3u8
+#EXTINF:0 group-title="(RU) Russia",MTV | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9856.m3u8
+#EXTINF:0 group-title="(RU) Russia",MUSIC BOX | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9811.m3u8
+#EXTINF:0 group-title="(RU) Russia",MUSIC BOX (1+) | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9855.m3u8
+#EXTINF:0 group-title="(RU) Russia",MUSIC BOX UA | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9854.m3u8
+#EXTINF:0 group-title="(RU) Russia",RADIO SHANSON TV | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9829.m3u8
+#EXTINF:0 group-title="(RU) Russia",STRANA FM TV | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9797.m3u8
+#EXTINF:0 group-title="(RU) Russia",TNT-MUSIC | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9790.m3u8
+#EXTINF:0 group-title="(RU) Russia",TNTMUSIC | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9789.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",BOSNA MUSIC | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13004.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MTV IGMAN | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12941.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MUSIC BRAZIL | SD (EX-YU)
+http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK MUSIC | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12902.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ROMA MUSIC TV | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13848.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",MTV | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10601.m3u8
+#EXTINF:0 group-title="(SE) Sweden",MTV (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10962.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",NUMBER1 FM | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9469.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NUMBER1 FM (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9469.m3u8
+#EXTINF:0 group-title="(TR) Turkey",POWERTURK FM | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9443.m3u8
+#EXTINF:0 group-title="(TR) Turkey",POWERTURK FM (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9443.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SUPER FM | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9441.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SUPER FM (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9441.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRACE URBAN | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9372.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRACE URBAN (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9372.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",CLUB MTV | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11313.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KOOL RADIO | SD (UK)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",M2O MUSIC | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37461.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11319.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV BASE | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11310.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV BASE | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11316.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV CLASSIC | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11311.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV HITS | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11309.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV HITS | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11315.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV HITS (1+) | SD (UK)
+http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/229/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV MUSIC | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11317.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV OMG | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11314.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTV ROCKS | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11312.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VH1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11318.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",PBN MUSIC | SD (US)
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",RADIO TELEBOSTON | SD (US)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",VH1 | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11835.m3u8
+#EXTINF:0 group-title="(US) United States",VH1 (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11835.m3u8
