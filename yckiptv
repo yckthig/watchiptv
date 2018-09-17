@@ -1,845 +1,1443 @@
 #EXTM3U
 
-#EXTINF:-1,PT:24Kitchen
-http://tv2iptv.com:8000/live/mic1/45464uy/8078.ts
-#EXTINF:-1,PT:A&E
-http://tv2iptv.com:8000/live/mic1/45464uy/8098.ts
-#EXTINF:-1,PT:ABOLA_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/8118.ts
-#EXTINF:-1,PT:AFRO_MUSIC
-http://tv2iptv.com:8000/live/mic1/45464uy/8092.ts
-#EXTINF:-1,PT:AMC
-http://tv2iptv.com:8000/live/mic1/45464uy/8137.ts
-#EXTINF:-1,PT:AXN_BLACK_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8144.ts
-#EXTINF:-1,PT:AXN_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8146.ts
-#EXTINF:-1,PT:AXN_WHITE_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8145.ts
-#EXTINF:-1,PT:bABY_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/8082.ts
-#EXTINF:-1,PT:Benfica_TV_FullHD
-http://tv2iptv.com:8000/live/mic1/45464uy/8123.ts
-#EXTINF:-1,PT:biggs
-http://tv2iptv.com:8000/live/mic1/45464uy/8072.ts
-#EXTINF:-1,PT:BTV_1
-http://tv2iptv.com:8000/live/mic1/45464uy/5081.ts
-#EXTINF:-1,PT:BTV_1_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8122.ts
-#EXTINF:-1,PT:cacavision
-http://tv2iptv.com:8000/live/mic1/45464uy/8099.ts
-#EXTINF:-1,PT:Caca_&_Pesca
-http://tv2iptv.com:8000/live/mic1/45464uy/8100.ts
-#EXTINF:-1,PT:Canal_Historia_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8101.ts
-#EXTINF:-1,PT:CANAL_PANDA
-http://tv2iptv.com:8000/live/mic1/45464uy/8079.ts
-#EXTINF:-1,PT:Cartoon_NetWork
-http://tv2iptv.com:8000/live/mic1/45464uy/8080.ts
-#EXTINF:-1,PT:CBC_REALITY
-http://tv2iptv.com:8000/live/mic1/45464uy/8073.ts
-#EXTINF:-1,PT:chealse_TV_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8113.ts
-#EXTINF:-1,PT:CMTV
-http://tv2iptv.com:8000/live/mic1/45464uy/8158.ts
-#EXTINF:-1,PT:Discovery_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8105.ts
-#EXTINF:-1,PT:DISCOVERY_HD_SHOWCASE
-http://tv2iptv.com:8000/live/mic1/45464uy/8071.ts
-#EXTINF:-1,PT:Disney_Channel
-http://tv2iptv.com:8000/live/mic1/45464uy/8085.ts
-#EXTINF:-1,PT:Disney_Junior
-http://tv2iptv.com:8000/live/mic1/45464uy/8086.ts
-#EXTINF:-1,PT:E!_Entertaunment
-http://tv2iptv.com:8000/live/mic1/45464uy/8094.ts
-#EXTINF:-1,PT:EURONEWS
-http://tv2iptv.com:8000/live/mic1/45464uy/8070.ts
-#EXTINF:-1,PT:EuroSport1_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8117.ts
-#EXTINF:-1,PT:EuroSport2_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8116.ts
-#EXTINF:-1,PT:FOX_COMEDY
-http://tv2iptv.com:8000/live/mic1/45464uy/8138.ts
-#EXTINF:-1,PT:FOX_Crime_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8139.ts
-#EXTINF:-1,PT:Fox_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8140.ts
-#EXTINF:-1,PT:Fox_Life_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8141.ts
-#EXTINF:-1,PT:FOX_Movies
-http://tv2iptv.com:8000/live/mic1/45464uy/8142.ts
-#EXTINF:-1,PT:FUEL_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/8093.ts
-#EXTINF:-1,PT:FX
-http://tv2iptv.com:8000/live/mic1/45464uy/8143.ts
-#EXTINF:-1,PT:HollyWood_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8148.ts
-#EXTINF:-1,PT:JIM_JAM
-http://tv2iptv.com:8000/live/mic1/45464uy/8081.ts
-#EXTINF:-1,PT:MCM_POP
-http://tv2iptv.com:8000/live/mic1/45464uy/8090.ts
-#EXTINF:-1,PT:Motors_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/8106.ts
-#EXTINF:-1,PT:MOV_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8147.ts
-#EXTINF:-1,PT:MTV
-http://tv2iptv.com:8000/live/mic1/45464uy/8091.ts
-#EXTINF:-1,PT:Nat_Geographic_Channel
-http://tv2iptv.com:8000/live/mic1/45464uy/8104.ts
-#EXTINF:-1,PT:Nat_Geo_Wild
-http://tv2iptv.com:8000/live/mic1/45464uy/8103.ts
-#EXTINF:-1,PT:Nickelodeon
-http://tv2iptv.com:8000/live/mic1/45464uy/8083.ts
-#EXTINF:-1,PT:Odisseia
-http://tv2iptv.com:8000/live/mic1/45464uy/8102.ts
-#EXTINF:-1,PT:Panda_Biggs
-http://tv2iptv.com:8000/live/mic1/45464uy/8084.ts
-#EXTINF:-1,PT:PFC_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8077.ts
-#EXTINF:-1,PT:Porto_Canal
-http://tv2iptv.com:8000/live/mic1/45464uy/8120.ts
-#EXTINF:-1,PT:REALMADRID_TV_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8121.ts
-#EXTINF:-1,PT:RTP1_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8162.ts
-#EXTINF:-1,PT:RTP2
-http://tv2iptv.com:8000/live/mic1/45464uy/8161.ts
-#EXTINF:-1,PT:RTP_3
-http://tv2iptv.com:8000/live/mic1/45464uy/5078.ts
-#EXTINF:-1,PT:RTP_Acores
-http://tv2iptv.com:8000/live/mic1/45464uy/8108.ts
-#EXTINF:-1,PT:RTP_África
-http://tv2iptv.com:8000/live/mic1/45464uy/8109.ts
-#EXTINF:-1,PT:RTP_int
-http://tv2iptv.com:8000/live/mic1/45464uy/8112.ts
-#EXTINF:-1,PT:RTP_Madeira
-http://tv2iptv.com:8000/live/mic1/45464uy/8110.ts
-#EXTINF:-1,PT:RTP_Memoria
-http://tv2iptv.com:8000/live/mic1/45464uy/8111.ts
-#EXTINF:-1,PT:SIC
-http://tv2iptv.com:8000/live/mic1/45464uy/5077.ts
-#EXTINF:-1,PT:SIC_CARAS
-http://tv2iptv.com:8000/live/mic1/45464uy/8107.ts
-#EXTINF:-1,PT:SIC_Kids
-http://tv2iptv.com:8000/live/mic1/45464uy/8087.ts
-#EXTINF:-1,PT:SIC_MULHER
-http://tv2iptv.com:8000/live/mic1/45464uy/5076.ts
-#EXTINF:-1,PT:SIC_noticias
-http://tv2iptv.com:8000/live/mic1/45464uy/8160.ts
-#EXTINF:-1,PT:Sic_Radical
-http://tv2iptv.com:8000/live/mic1/45464uy/5075.ts
-#EXTINF:-1,PT:Sporting_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/5074.ts
-#EXTINF:-1,PT:SportTV1
-http://tv2iptv.com:8000/live/mic1/45464uy/8132.ts
-#EXTINF:-1,PT:SportTV2
-http://tv2iptv.com:8000/live/mic1/45464uy/8131.ts
-#EXTINF:-1,PT:SportTV3
-http://tv2iptv.com:8000/live/mic1/45464uy/8130.ts
-#EXTINF:-1,PT:SportTV4
-http://tv2iptv.com:8000/live/mic1/45464uy/8129.ts
-#EXTINF:-1,PT:SportTV5
-http://tv2iptv.com:8000/live/mic1/45464uy/8124.ts
-#EXTINF:-1,PT:SPORT_TV_1_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/5069.ts
-#EXTINF:-1,PT:SPORT_TV_2_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/5068.ts
-#EXTINF:-1,PT:SPORT_TV_3_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/5067.ts
-#EXTINF:-1,PT:syfy
-http://tv2iptv.com:8000/live/mic1/45464uy/8135.ts
-#EXTINF:-1,PT:TIGO_MUSIC
-http://tv2iptv.com:8000/live/mic1/45464uy/8095.ts
-#EXTINF:-1,PT:TLC
-http://tv2iptv.com:8000/live/mic1/45464uy/8096.ts
-#EXTINF:-1,PT:Toros_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/8097.ts
-#EXTINF:-1,PT:TVCine3_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8152.ts
-#EXTINF:-1,PT:TVCine4_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8151.ts
-#EXTINF:-1,PT:TVCINE_1
-http://tv2iptv.com:8000/live/mic1/45464uy/5073.ts
-#EXTINF:-1,PT:TVCine_1_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8154.ts
-#EXTINF:-1,PT:TVCINE_2
-http://tv2iptv.com:8000/live/mic1/45464uy/5072.ts
-#EXTINF:-1,PT:TVCine_2_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8153.ts
-#EXTINF:-1,PT:TVCINE_3
-http://tv2iptv.com:8000/live/mic1/45464uy/5071.ts
-#EXTINF:-1,PT:TVCINE_4
-http://tv2iptv.com:8000/live/mic1/45464uy/5070.ts
-#EXTINF:-1,PT:TVI
-http://tv2iptv.com:8000/live/mic1/45464uy/5082.ts
-#EXTINF:-1,PT:TVI_24
-http://tv2iptv.com:8000/live/mic1/45464uy/8159.ts
-#EXTINF:-1,PT:Tvi_ficcao
-http://tv2iptv.com:8000/live/mic1/45464uy/8157.ts
-#EXTINF:-1,PT:TVI_REALITY
-http://tv2iptv.com:8000/live/mic1/45464uy/8156.ts
-#EXTINF:-1,PT:TV_Globo
-http://tv2iptv.com:8000/live/mic1/45464uy/8074.ts
-#EXTINF:-1,PT:TV_Globo_Premium
-http://tv2iptv.com:8000/live/mic1/45464uy/8075.ts
-#EXTINF:-1,PT:TV_PALAMENTO
-http://tv2iptv.com:8000/live/mic1/45464uy/8115.ts
-#EXTINF:-1,PT:TV_Record
-http://tv2iptv.com:8000/live/mic1/45464uy/8076.ts
-#EXTINF:-1,PT:TV_Series_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/8150.ts
-#EXTINF:-1,PT:vh1_SHUFFLE
-http://tv2iptv.com:8000/live/mic1/45464uy/8089.ts
 
-#EXTINF:-1,PT-24-Kitchen
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8176.ts
-#EXTINF:-1,PT-A&E
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8175.ts
-#EXTINF:-1,PT-AFRO-MUSIC
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8123.ts
-#EXTINF:-1,PT-AMC-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8122.ts
-#EXTINF:-1,PT-AXN-BLACK-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8121.ts
-#EXTINF:-1,PT-AXN-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8120.ts
-#EXTINF:-1,PT-AXN-WHITE-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8174.ts
-#EXTINF:-1,PT-BABY-FIRST
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8173.ts
-#EXTINF:-1,PT-BBC-ENTERTAINMENT
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8172.ts
-#EXTINF:-1,PT-BBC-WORLD-NEWS
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8171.ts
-#EXTINF:-1,PT-Biggs
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8170.ts
-#EXTINF:-1,PT-BLOOMBERG
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8169.ts
-#EXTINF:-1,PT-BTV-1FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8189.ts
-#EXTINF:-1,PT-BTV-1HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8168.ts
-#EXTINF:-1,PT-CACA-E-PESCA
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8119.ts
-#EXTINF:-1,PT-Canal Panda
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8167.ts
-#EXTINF:-1,PT-Cancao-Nova
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8118.ts
-#EXTINF:-1,PT-Cartoon Network
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8166.ts
-#EXTINF:-1,PT-CBS-REALITY
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8165.ts
-#EXTINF:-1,PT-CINEMUNDO
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8164.ts
-#EXTINF:-1,PT-CMTV-FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8188.ts
-#EXTINF:-1,PT-DISCOVERY-CHANNEL
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8163.ts
-#EXTINF:-1,PT-DISCOVERY-HD-SHOWCASE
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8162.ts
-#EXTINF:-1,PT-Disney-Junior
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8161.ts
-#EXTINF:-1,PT-E!-ENTERTAINMENT
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8160.ts
-#EXTINF:-1,PT-EURONEWS
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8159.ts
-#EXTINF:-1,PT-EUROSPORT-1
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8117.ts
-#EXTINF:-1,PT-EUROSPORT-2
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8116.ts
-#EXTINF:-1,PT-EUROSPORT-NEWS
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8158.ts
-#EXTINF:-1,PT-FOX
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8157.ts
-#EXTINF:-1,PT-FOX NEWS
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8154.ts
-#EXTINF:-1,PT-FOX-COMEDY
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8156.ts
-#EXTINF:-1,PT-FOX-CRIME
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8155.ts
-#EXTINF:-1,PT-FOX-Life-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8115.ts
-#EXTINF:-1,PT-FOX-MOVIES
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8114.ts
-#EXTINF:-1,PT-GLOBO-PORTUGAL
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8113.ts
-#EXTINF:-1,PT-Globo-Premium
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8153.ts
-#EXTINF:-1,PT-HISTORIA
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8152.ts
-#EXTINF:-1,PT-HOLLYWOOD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8151.ts
-#EXTINF:-1,PT-MCM-POP
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8112.ts
-#EXTINF:-1,PT-MOTORS-TV
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8150.ts
-#EXTINF:-1,PT-MOTORVISION
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8149.ts
-#EXTINF:-1,PT-MTV PORTUGAL
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8148.ts
-#EXTINF:-1,PT-NAT-GEO-WILD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8111.ts
-#EXTINF:-1,PT-NATIONAL-GEOGRAPHIC-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8110.ts
-#EXTINF:-1,PT-Nick-Jr
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8187.ts
-#EXTINF:-1,PT-Nickelodeon
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8147.ts
-#EXTINF:-1,PT-ODISSEIA
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8146.ts
-#EXTINF:-1,PT-PFC
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8145.ts
-#EXTINF:-1,PT-PORT-TV-2FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8178.ts
-#EXTINF:-1,PT-PORTO-CANAL
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8144.ts
-#EXTINF:-1,PT-Record News
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8143.ts
-#EXTINF:-1,PT-RTP Mem?ria
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8139.ts
-#EXTINF:-1,PT-RTP-1FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8179.ts
-#EXTINF:-1,PT-RTP-2FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8186.ts
-#EXTINF:-1,PT-RTP1
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8142.ts
-#EXTINF:-1,PT-RTP2
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8141.ts
-#EXTINF:-1,PT-RTP3
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8140.ts
-#EXTINF:-1,PT-SIC
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8138.ts
-#EXTINF:-1,PT-SIC-Caras
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8137.ts
-#EXTINF:-1,PT-SIC-FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8185.ts
-#EXTINF:-1,PT-SIC-K
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8136.ts
-#EXTINF:-1,PT-SIC-Mulher
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8135.ts
-#EXTINF:-1,PT-SIC-Radical
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8134.ts
-#EXTINF:-1,PT-SPORT-TV
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8133.ts
-#EXTINF:-1,PT-SPORT-TV FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8184.ts
-#EXTINF:-1,PT-SPORT-TV-1HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8109.ts
-#EXTINF:-1,PT-SPORT-TV-1ULTRAFHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8183.ts
-#EXTINF:-1,PT-SPORT-TV-2HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8131.ts
-#EXTINF:-1,PT-SPORT-TV-3FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8182.ts
-#EXTINF:-1,PT-SPORT-TV-3HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8107.ts
-#EXTINF:-1,PT-SPORT-TV-4
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8106.ts
-#EXTINF:-1,PT-SPORT-TV-4FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8181.ts
-#EXTINF:-1,PT-SPORT-TV-4HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8105.ts
-#EXTINF:-1,PT-SPORT-TV-5FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8177.ts
-#EXTINF:-1,PT-SPORT-TV-5HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8129.ts
-#EXTINF:-1,PT-SPORT-TV1
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8132.ts
-#EXTINF:-1,PT-SPORT-TV2
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8108.ts
-#EXTINF:-1,PT-SPORT-TV3
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8130.ts
-#EXTINF:-1,PT-SPORT-TV5
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8104.ts
-#EXTINF:-1,PT-SPORTING-TV
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8103.ts
-#EXTINF:-1,PT-SYFY
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8102.ts
-#EXTINF:-1,PT-TLC
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8101.ts
-#EXTINF:-1,PT-Toros-TV-HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8128.ts
-#EXTINF:-1,PT-TPA-INTERNACIONAL
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8088.ts
-#EXTINF:-1,PT-TV Galicia
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8127.ts
-#EXTINF:-1,PT-TV SERIES
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8100.ts
-#EXTINF:-1,PT-TVCINE-1
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8099.ts
-#EXTINF:-1,PT-TVCINE-1HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8098.ts
-#EXTINF:-1,PT-TVCINE-2
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8097.ts
-#EXTINF:-1,PT-TVCINE-2HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8096.ts
-#EXTINF:-1,PT-TVCINE-3
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8095.ts
-#EXTINF:-1,PT-TVCINE-3HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8094.ts
-#EXTINF:-1,PT-TVCINE-4
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8093.ts
-#EXTINF:-1,PT-TVCINE-4HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8126.ts
-#EXTINF:-1,PT-TVI
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8125.ts
-#EXTINF:-1,PT-TVI HD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8091.ts
-#EXTINF:-1,PT-TVI-24
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8092.ts
-#EXTINF:-1,PT-TVI-FHD
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8180.ts
-#EXTINF:-1,PT-TVI-Reality
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8090.ts
-#EXTINF:-1,PT-VH1
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8089.ts
-#EXTINF:-1,PT-VH1-Classic
-http://54.37.28.204:1795/live/alikassem/j73ncGkHnN/8124.ts
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",KASS SPORTS | SD (AL)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:0 group-title="(AL) Albania",KSPORT ANIMATION CHANNEL | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14220.m3u8
+#EXTINF:0 group-title="(AL) Albania",KSPORT KIDS | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14221.m3u8
+#EXTINF:0 group-title="(AL) Albania",KSPORT P | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14250.m3u8
+#EXTINF:0 group-title="(AL) Albania",POPCORN 3/4 LIVE JUSTICE LEAGUE | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14123.m3u8
+#EXTINF:0 group-title="(AL) Albania",TV DIASPORA | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14082.m3u8
 
-#EXTINF:-1,PT: AMC HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9646.ts
-#EXTINF:-1,PT: AXN BLACK HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9645.ts
-#EXTINF:-1,PT: AXN HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9644.ts
-#EXTINF:-1,PT: AXN WHITE HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9643.ts
-#EXTINF:-1,PT: BTV 1 HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9642.ts
-#EXTINF:-1,PT: EUROSPORT 1 HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9641.ts
-#EXTINF:-1,PT: FOX Movies HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9640.ts
-#EXTINF:-1,PT: FIGHT NETWORK HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9639.ts
-#EXTINF:-1,PT: FOX Comedy HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9638.ts
-#EXTINF:-1,PT: FOX CRIME HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9637.ts
-#EXTINF:-1,PT: FOX HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9636.ts
-#EXTINF:-1,PT: FOX LIFE HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9635.ts
-#EXTINF:-1,PT: FUEL TV HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9634.ts
-#EXTINF:-1,PT: SIC NOTICIAS HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9633.ts
-#EXTINF:-1,PT: SIC RADICAL HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9632.ts
-#EXTINF:-1,PT: SPORT TV HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16057.ts
-#EXTINF:-1,PT: SPORT TV 1 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16056.ts
-#EXTINF:-1,PT: SPORT TV 2 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16055.ts
-#EXTINF:-1,PT: SPORT TV 3 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16054.ts
-#EXTINF:-1,PT: SPORT TV 4 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16053.ts
-#EXTINF:-1,PT: SPORT TV 5 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16052.ts
-#EXTINF:-1,PT: Sporting TV HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9625.ts
-#EXTINF:-1,PT: TVCINE 1 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16051.ts
-#EXTINF:-1,PT: TVCINE 2 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16050.ts
-#EXTINF:-1,PT: TVCINE 3 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16049.ts
-#EXTINF:-1,PT: TVCINE 4 HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/16048.ts
-#EXTINF:-1,PT: SyFy HD 1080
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/9624.ts
-#EXTINF:-1,PT: Sport TV1
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6494.ts
-#EXTINF:-1,PT: Sport TV2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6495.ts
-#EXTINF:-1,PT: Sport TV3
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6496.ts
-#EXTINF:-1,PT: Sport TV4
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6497.ts
-#EXTINF:-1,PT: Sport TV5
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6498.ts
-#EXTINF:-1,PT: TV Cine 1HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6499.ts
-#EXTINF:-1,PT: TV Cine 2HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6500.ts
-#EXTINF:-1,PT: TV Cine 3HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6501.ts
-#EXTINF:-1,PT: TV Cine 4HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6502.ts
-#EXTINF:-1,PT: TV SERIES
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6503.ts
-#EXTINF:-1,PT: RTP 1
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3643.ts
-#EXTINF:-1,PT: RTP 2 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5427.ts
-#EXTINF:-1,PT: RTP 2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3654.ts
-#EXTINF:-1,PT: RTP 3
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3642.ts
-#EXTINF:-1,PT: SIC
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4476.ts
-#EXTINF:-1,PT: TVI HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/955.ts
-#EXTINF:-1,PT: TVI
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4477.ts
-#EXTINF:-1,PT: 24 Kitchen HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12609.ts
-#EXTINF:-1,PT: A Bola TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4482.ts
-#EXTINF:-1,PT: A&E
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4495.ts
-#EXTINF:-1,PT: AandE TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12599.ts
-#EXTINF:-1,PT: Afro Music
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4496.ts
-#EXTINF:-1,PT: AMC
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3667.ts
-#EXTINF:-1,PT: AR TV HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12604.ts
-#EXTINF:-1,PT: AXN BLACK HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4669.ts
-#EXTINF:-1,PT: AXN HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4667.ts
-#EXTINF:-1,PT: AXN WHITE HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4668.ts
-#EXTINF:-1,PT: Baby First
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12624.ts
-#EXTINF:-1,PT: BABY TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3666.ts
-#EXTINF:-1,PT: BH News
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12608.ts
-#EXTINF:-1,PT: Biggs
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12623.ts
-#EXTINF:-1,PT: BTV 1 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3645.ts
-#EXTINF:-1,PT: Caçae Pesca
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12627.ts
-#EXTINF:-1,PT: CAÇÃVISION
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4666.ts
-#EXTINF:-1,PT: Canal de Historia
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3665.ts
-#EXTINF:-1,PT: Canal Panda
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3664.ts
-#EXTINF:-1,PT: Cinemundo
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3663.ts
-#EXTINF:-1,PT: CM TV HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/15202.ts
-#EXTINF:-1,PT: CM TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3662.ts
-#EXTINF:-1,PT: Crime & Incvestigation
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12598.ts
-#EXTINF:-1,PT: Discovery Channel
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4490.ts
-#EXTINF:-1,PT: Discovery Showcase HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12597.ts
-#EXTINF:-1,PT: Disney Channel
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4493.ts
-#EXTINF:-1,PT: Disney Junior
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3661.ts
-#EXTINF:-1,PT: E! Entertainment
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12621.ts
-#EXTINF:-1,PT: EuroNews
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12626.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12367.ts
-#EXTINF:-1,PT: EUROSPORT HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1520.ts
-#EXTINF:-1,PT: Eurosport News
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4483.ts
-#EXTINF:-1,PT: FightBOX HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12602.ts
-#EXTINF:-1,PT: Food Netword
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12607.ts
-#EXTINF:-1,PT: FOX Comedy
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4488.ts
-#EXTINF:-1,PT: FOX CRIME HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4665.ts
-#EXTINF:-1,PT: FOX HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4664.ts
-#EXTINF:-1,PT: FOX LIFE HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4663.ts
-#EXTINF:-1,PT: FOX Movies
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4489.ts
-#EXTINF:-1,PT: FOX News
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12622.ts
-#EXTINF:-1,PT: France 24
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12616.ts
-#EXTINF:-1,PT: Fuel TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4484.ts
-#EXTINF:-1,PT: GLOBO PREMIUM
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4661.ts
-#EXTINF:-1,PT: Hollywood HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4486.ts
-#EXTINF:-1,PT: JIM JAM
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3660.ts
-#EXTINF:-1,PT: JR News
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12606.ts
-#EXTINF:-1,PT: MCM TOP
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4498.ts
-#EXTINF:-1,PT: My Cuisine
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12625.ts
-#EXTINF:-1,PT: MCS LifeStyle
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12596.ts
-#EXTINF:-1,PT: MOTORS TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3659.ts
-#EXTINF:-1,PT: Motorvision
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4485.ts
-#EXTINF:-1,PT: MTV Dance
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4497.ts
-#EXTINF:-1,PT: Mtv Portugal
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3658.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4491.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4662.ts
-#EXTINF:-1,PT: NBA HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12603.ts
-#EXTINF:-1,PT: Nickelodeon
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3657.ts
-#EXTINF:-1,PT: ODISSEIA
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1517.ts
-#EXTINF:-1,PT: Panda
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4492.ts
-#EXTINF:-1,PT: PANDA BIGGS
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3656.ts
-#EXTINF:-1,PT: PFC
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4660.ts
-#EXTINF:-1,PT: Porto Canal
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3655.ts
-#EXTINF:-1,PT: Regiões TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12620.ts
-#EXTINF:-1,PT: RTP Açores
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4481.ts
-#EXTINF:-1,PT: RTP Africa
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4480.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3653.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3652.ts
-#EXTINF:-1,PT: SIC K
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3651.ts
-#EXTINF:-1,PT: Sic Kids
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4494.ts
-#EXTINF:-1,PT: Sic Caras
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/14615.ts
-#EXTINF:-1,PT: SIC MULHER
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3650.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3649.ts
-#EXTINF:-1,PT: SIC Radical
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4479.ts
-#EXTINF:-1,PT: SKYNews
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12615.ts
-#EXTINF:-1,PT: STV MOZAMBIQUE
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12613.ts
-#EXTINF:-1,PT: STV Noticias
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12619.ts
-#EXTINF:-1,PT: SUNDANCE HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12600.ts
-#EXTINF:-1,PT: DOG HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/14629.ts
-#EXTINF:-1,PT: SyFy
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4487.ts
-#EXTINF:-1,PT: TCV Cabo Verde
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12612.ts
-#EXTINF:-1,PT: TLC
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12611.ts
-#EXTINF:-1,PT: Toros TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12610.ts
-#EXTINF:-1,PT: TPA ANGOLA
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12614.ts
-#EXTINF:-1,PT: Trace TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12617.ts
-#EXTINF:-1,PT: Travel HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12605.ts
-#EXTINF:-1,PT: TV Globo
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5426.ts
-#EXTINF:-1,PT: Tv Record
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3648.ts
-#EXTINF:-1,PT: Tvi 24
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3647.ts
-#EXTINF:-1,PT: TVI FICCAO
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3646.ts
-#EXTINF:-1,PT: TVI Reality
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4478.ts
-#EXTINF:-1,PT: VH1
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12618.ts
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10143.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1HD | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10147.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 1 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13609.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 1 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10144.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 2 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13608.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 2 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10145.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 3 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13607.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 4 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13606.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORTS 5 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10148.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL ANBAR | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10155.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL ANBAR TV | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10156.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN NBA | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10511.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10241.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 1 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10515.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 10 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10512.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 2 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10516.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 3 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10517.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 4 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10518.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 5 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10519.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 6 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10520.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 7 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10521.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 8 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10513.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 9 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10514.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT NEWS | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10522.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13612.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10242.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 1 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10243.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10244.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 11 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10245.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 12 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10247.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 13 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10249.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 14 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10251.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 15 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10253.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 16 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10254.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 17 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10255.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 2 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10256.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 3 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10257.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 4 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10258.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10259.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10260.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10261.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10262.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10263.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS NEWS | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10264.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEOUT Q SPORTS 1 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13611.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEOUT Q SPORTS 2 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13610.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DMC SPORTS | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10284.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING 2 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10288.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 3 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10289.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS 1 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10290.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS 4 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10291.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORTS 1HD | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10351.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORTS 2HD | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10352.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORTS 3HD | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10353.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PROSPORT 3 | SD (AR)
+http://144.217.72.121:8000/live/nova1764/a1764/915.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT | SD (AR)
+http://144.217.72.121:8000/live/nova1764/a1764/909.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10376.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ON SPORT | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10387.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ABU DHABI SPORTS 4 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10527.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ABU DHABI SPORTS 5 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10528.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 1 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10397.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 2 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10398.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 3 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10399.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 4 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10400.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN FIGHT NETWORK | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10577.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 1 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10429.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 1 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10558.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 2 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10430.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 2 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10559.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 3 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10431.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 3 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10560.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 4 | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10432.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 4 | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10561.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS CRICKET | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10502.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS CRICKET (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10562.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN TEN CRICKET | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10563.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN YAS SPORT | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10596.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SHARJAH SPORT | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10468.m3u8
 
-#EXTINF:-1,PT: A Bola TV
-http://akincimedia.com:1453/live/huseyin/cetin/71032.ts
-#EXTINF:-1,PT: A E
-http://akincimedia.com:1453/live/huseyin/cetin/70984.ts
-#EXTINF:-1,PT: Afro Music
-http://akincimedia.com:1453/live/huseyin/cetin/70970.ts
-#EXTINF:-1,PT: AMC
-http://akincimedia.com:1453/live/huseyin/cetin/71002.ts
-#EXTINF:-1,PT: AXN HD
-http://akincimedia.com:1453/live/huseyin/cetin/71012.ts
-#EXTINF:-1,PT: AXN White
-http://akincimedia.com:1453/live/huseyin/cetin/71010.ts
-#EXTINF:-1,PT: Barca TV
-http://akincimedia.com:1453/live/huseyin/cetin/71023.ts
-#EXTINF:-1,PT: Benfica TV
-http://akincimedia.com:1453/live/huseyin/cetin/71030.ts
-#EXTINF:-1,PT: Benfica TV HD
-http://akincimedia.com:1453/live/huseyin/cetin/71031.ts
-#EXTINF:-1,PT: Biggs
-http://akincimedia.com:1453/live/huseyin/cetin/70995.ts
-#EXTINF:-1,PT: Ca
-http://akincimedia.com:1453/live/huseyin/cetin/70979.ts
-#EXTINF:-1,PT: Canal Panda
-http://akincimedia.com:1453/live/huseyin/cetin/70994.ts
-#EXTINF:-1,PT: Canal Q
-http://akincimedia.com:1453/live/huseyin/cetin/70985.ts
-#EXTINF:-1,PT: Capital TV
-http://akincimedia.com:1453/live/huseyin/cetin/70969.ts
-#EXTINF:-1,PT: Cartoon Network
-http://akincimedia.com:1453/live/huseyin/cetin/70997.ts
-#EXTINF:-1,PT: CBS Reality
-http://akincimedia.com:1453/live/huseyin/cetin/70983.ts
-#EXTINF:-1,PT: Chelsea TV
-http://akincimedia.com:1453/live/huseyin/cetin/71024.ts
-#EXTINF:-1,PT: Cinemundo
-http://akincimedia.com:1453/live/huseyin/cetin/71014.ts
-#EXTINF:-1,PT: CMTV
-http://akincimedia.com:1453/live/huseyin/cetin/71048.ts
-#EXTINF:-1,PT: Discovery Channel
-http://akincimedia.com:1453/live/huseyin/cetin/70987.ts
-#EXTINF:-1,PT: Discovery Showcase
-http://akincimedia.com:1453/live/huseyin/cetin/70986.ts
-#EXTINF:-1,PT: Disney Channel
-http://akincimedia.com:1453/live/huseyin/cetin/70993.ts
-#EXTINF:-1,PT: Disney Junior
-http://akincimedia.com:1453/live/huseyin/cetin/70992.ts
-#EXTINF:-1,PT: E!Entertainment
-http://akincimedia.com:1453/live/huseyin/cetin/70982.ts
-#EXTINF:-1,PT: Eurosport 1
-http://akincimedia.com:1453/live/huseyin/cetin/71028.ts
-#EXTINF:-1,PT: Eurosport 2
-http://akincimedia.com:1453/live/huseyin/cetin/71027.ts
-#EXTINF:-1,PT: FOX Comedy
-http://akincimedia.com:1453/live/huseyin/cetin/71009.ts
-#EXTINF:-1,PT: Fox Crime
-http://akincimedia.com:1453/live/huseyin/cetin/71005.ts
-#EXTINF:-1,PT: FOX HD
-http://akincimedia.com:1453/live/huseyin/cetin/71008.ts
-#EXTINF:-1,PT: FOX Life HD
-http://akincimedia.com:1453/live/huseyin/cetin/71007.ts
-#EXTINF:-1,PT: FOX Movies
-http://akincimedia.com:1453/live/huseyin/cetin/71006.ts
-#EXTINF:-1,PT: Historia
-http://akincimedia.com:1453/live/huseyin/cetin/70991.ts
-#EXTINF:-1,PT: Hollywood
-http://akincimedia.com:1453/live/huseyin/cetin/71004.ts
-#EXTINF:-1,PT: HOT
-http://akincimedia.com:1453/live/huseyin/cetin/70966.ts
-#EXTINF:-1,PT: JimJam
-http://akincimedia.com:1453/live/huseyin/cetin/70996.ts
-#EXTINF:-1,PT: Kombat Sport
-http://akincimedia.com:1453/live/huseyin/cetin/71021.ts
-#EXTINF:-1,PT: MCM POP
-http://akincimedia.com:1453/live/huseyin/cetin/70977.ts
-#EXTINF:-1,PT: Motorvision
-http://akincimedia.com:1453/live/huseyin/cetin/71022.ts
-#EXTINF:-1,PT: MTV Portugal
-http://akincimedia.com:1453/live/huseyin/cetin/70975.ts
-#EXTINF:-1,PT: Nat Geo
-http://akincimedia.com:1453/live/huseyin/cetin/70989.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://akincimedia.com:1453/live/huseyin/cetin/70988.ts
-#EXTINF:-1,PT: Nickelodeon
-http://akincimedia.com:1453/live/huseyin/cetin/70998.ts
-#EXTINF:-1,PT: Odissea
-http://akincimedia.com:1453/live/huseyin/cetin/70990.ts
-#EXTINF:-1,PT: One1
-http://akincimedia.com:1453/live/huseyin/cetin/70968.ts
-#EXTINF:-1,PT: Playboy
-http://akincimedia.com:1453/live/huseyin/cetin/70964.ts
-#EXTINF:-1,PT: Porto Canal
-http://akincimedia.com:1453/live/huseyin/cetin/71047.ts
-#EXTINF:-1,PT: Real Madrid TV
-http://akincimedia.com:1453/live/huseyin/cetin/71025.ts
-#EXTINF:-1,PT: RTP 1
-http://akincimedia.com:1453/live/huseyin/cetin/71065.ts
-#EXTINF:-1,PT: RTP 2
-http://akincimedia.com:1453/live/huseyin/cetin/71064.ts
-#EXTINF:-1,PT: RTP 3
-http://akincimedia.com:1453/live/huseyin/cetin/71051.ts
-#EXTINF:-1,PT: RTP Acores
-http://akincimedia.com:1453/live/huseyin/cetin/71059.ts
-#EXTINF:-1,PT: RTP Africa
-http://akincimedia.com:1453/live/huseyin/cetin/71057.ts
-#EXTINF:-1,PT: RTP Madeira
-http://akincimedia.com:1453/live/huseyin/cetin/71058.ts
-#EXTINF:-1,PT: SIC
-http://akincimedia.com:1453/live/huseyin/cetin/71063.ts
-#EXTINF:-1,PT: SIC CARAS
-http://akincimedia.com:1453/live/huseyin/cetin/71056.ts
-#EXTINF:-1,PT: SIC K
-http://akincimedia.com:1453/live/huseyin/cetin/70999.ts
-#EXTINF:-1,PT: Sic Mulher
-http://akincimedia.com:1453/live/huseyin/cetin/71055.ts
-#EXTINF:-1,PT: SIC Noticias
-http://akincimedia.com:1453/live/huseyin/cetin/71050.ts
-#EXTINF:-1,PT: SIC Radical
-http://akincimedia.com:1453/live/huseyin/cetin/71054.ts
-#EXTINF:-1,PT: Sport TV
-http://akincimedia.com:1453/live/huseyin/cetin/71033.ts
-#EXTINF:-1,PT: Sport TV 1
-http://akincimedia.com:1453/live/huseyin/cetin/71042.ts
-#EXTINF:-1,PT: Sport TV 2
-http://akincimedia.com:1453/live/huseyin/cetin/71040.ts
-#EXTINF:-1,PT: Sport TV 3
-http://akincimedia.com:1453/live/huseyin/cetin/71038.ts
-#EXTINF:-1,PT: Sport TV 4
-http://akincimedia.com:1453/live/huseyin/cetin/71036.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://akincimedia.com:1453/live/huseyin/cetin/71037.ts
-#EXTINF:-1,PT: Sport TV 5
-http://akincimedia.com:1453/live/huseyin/cetin/71034.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://akincimedia.com:1453/live/huseyin/cetin/71035.ts
-#EXTINF:-1,PT: Sporting TV
-http://akincimedia.com:1453/live/huseyin/cetin/71029.ts
-#EXTINF:-1,PT: SYFY
-http://akincimedia.com:1453/live/huseyin/cetin/71001.ts
-#EXTINF:-1,PT: TLC
-http://akincimedia.com:1453/live/huseyin/cetin/70981.ts
-#EXTINF:-1,PT: Toros TV
-http://akincimedia.com:1453/live/huseyin/cetin/70978.ts
-#EXTINF:-1,PT: Trace Urban TV
-http://akincimedia.com:1453/live/huseyin/cetin/70967.ts
-#EXTINF:-1,PT: TV Globo
-http://akincimedia.com:1453/live/huseyin/cetin/71046.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://akincimedia.com:1453/live/huseyin/cetin/71045.ts
-#EXTINF:-1,PT: TV Record
-http://akincimedia.com:1453/live/huseyin/cetin/71044.ts
-#EXTINF:-1,PT: TV Series
-http://akincimedia.com:1453/live/huseyin/cetin/71013.ts
-#EXTINF:-1,PT: TVC 1
-http://akincimedia.com:1453/live/huseyin/cetin/71018.ts
-#EXTINF:-1,PT: TVC 2
-http://akincimedia.com:1453/live/huseyin/cetin/71017.ts
-#EXTINF:-1,PT: TVC 3
-http://akincimedia.com:1453/live/huseyin/cetin/71016.ts
-#EXTINF:-1,PT: TVC 4
-http://akincimedia.com:1453/live/huseyin/cetin/71015.ts
-#EXTINF:-1,PT: TVi
-http://akincimedia.com:1453/live/huseyin/cetin/71062.ts
-#EXTINF:-1,PT: TVi 24
-http://akincimedia.com:1453/live/huseyin/cetin/71049.ts
-#EXTINF:-1,PT: TVi Fic
-http://akincimedia.com:1453/live/huseyin/cetin/71052.ts
-#EXTINF:-1,PT: TVi HD
-http://akincimedia.com:1453/live/huseyin/cetin/71061.ts
-#EXTINF:-1,PT: TVi Reality
-http://akincimedia.com:1453/live/huseyin/cetin/71053.ts
-#EXTINF:-1,PT: Venus
-http://akincimedia.com:1453/live/huseyin/cetin/70965.ts
-#EXTINF:-1,PT: VH1
-http://akincimedia.com:1453/live/huseyin/cetin/70972.ts
-#EXTINF:-1,PT: VH1 Classic
-http://akincimedia.com:1453/live/huseyin/cetin/70971.ts
+#EXTINF:0 group-title="(ARG) Argentina",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",FOX SPORT | SD (ARG)
+http://mag.homeip.net:8080/live/gazi1/12345/13913.m3u8
+#EXTINF:0 group-title="(ARG) Argentina",FOX SPORT 2 | SD (ARG)
+http://mag.homeip.net:8080/live/gazi1/12345/13912.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13305.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13305.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 10 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13296.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 10 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13296.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 14 | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10252.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13304.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13304.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13303.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13303.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 4 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13302.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 4 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13302.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 5 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13301.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 5 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13301.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 6 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13300.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 6 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13300.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 7 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13299.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 7 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13299.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 8 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13298.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 8 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13298.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 9 MAX | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13297.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 9 MAX (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13297.m3u8
+#EXTINF:0 group-title="(FR) France",BFM SPORT | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13165.m3u8
+#EXTINF:0 group-title="(FR) France",BFM SPORT (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13165.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL PLUS SPORT | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13134.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL PLUS SPORT (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13134.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SPORT | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13307.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SPORT (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13307.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 1 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13295.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 1 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13295.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 2 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13294.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 2 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13294.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 3 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13293.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 3 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13293.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 4 | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13292.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 4 (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13292.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT NEWS | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13605.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT NEWS (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13605.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",AUTO MOTOR SPORT | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13643.m3u8
+#EXTINF:0 group-title="(DE) Germany",AUTO MOTOR SPORT (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13643.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8693.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13641.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8693.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13641.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8694.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13640.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8694.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13640.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8695.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13639.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8695.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13639.m3u8
+#EXTINF:0 group-title="(DE) Germany",MOTORVISION | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13642.m3u8
+#EXTINF:0 group-title="(DE) Germany",MOTORVISION (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13642.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13633.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13633.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/9237.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8746.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13672.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8746.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13672.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8745.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8745.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13671.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13671.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8738.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13661.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8738.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13661.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 10 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13662.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 10 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13662.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13670.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13670.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8739.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13660.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8739.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13660.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13669.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13669.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8740.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8740.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13668.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13668.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8741.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8741.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13667.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13667.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8742.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8742.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13666.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13666.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8743.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8743.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13665.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13665.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8744.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8744.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 8 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13664.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 8 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13664.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 9 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13663.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 9 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13663.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13659.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13659.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13649.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8747.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13649.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 10 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13650.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 10 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13650.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13658.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13658.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8748.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13648.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8748.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 2 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13648.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13657.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13657.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8749.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13647.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8749.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 3 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13647.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13656.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13656.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8750.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13646.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8750.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 4 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13646.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13655.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13655.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8751.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13645.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8751.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 5 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13645.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 6 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13654.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 6 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13654.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 6 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8752.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 6 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8752.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 7 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13653.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 7 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13653.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 7 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8753.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 7 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8753.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 8 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13652.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 9 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13651.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 9 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13651.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8754.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13673.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8754.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13673.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13635.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13635.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8756.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8756.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT1 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8757.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT1 (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13636.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT1 (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8757.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT1 (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13636.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORTDIGITAL | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13637.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORTDIGITAL (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13637.m3u8
+#EXTINF:0 group-title="(DE) Germany",UPC MY SPORTS | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/13638.m3u8
+#EXTINF:0 group-title="(DE) Germany",UPC MY SPORTS (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13638.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",DIGI SPORT 1 | SD (GR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13513.m3u8
+#EXTINF:0 group-title="(GR) Greece",DIGI SPORT 2 | SD (GR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13512.m3u8
+#EXTINF:0 group-title="(GR) Greece",EUROSPORT 1 | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9928.m3u8
+#EXTINF:0 group-title="(GR) Greece",HORSE RACES | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9998.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",AUTOMOTO TV | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12497.m3u8
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 1 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13533.m3u8
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 2 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13532.m3u8
+#EXTINF:0 group-title="(IT) Italy",FISHING TV | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13480.m3u8
+#EXTINF:0 group-title="(IT) Italy",FISHING TV ITALIANO | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12496.m3u8
+#EXTINF:0 group-title="(IT) Italy",LUNA TV SPORT | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12464.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13483.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 1 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13547.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 2 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13482.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13537.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 2 | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13535.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 24 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13565.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT ARENA | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13561.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT F1 | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13558.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT FOOTBALL | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13563.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT GOLF | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13560.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT MOTOGP | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13557.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT NBA | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13559.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT UNO | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13564.m3u8
+#EXTINF:0 group-title="(IT) Italy",SPORT | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13531.m3u8
+#EXTINF:0 group-title="(IT) Italy",SUPER TENNIS | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13534.m3u8
+#EXTINF:0 group-title="(IT) Italy",SUPERTENNIS | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13485.m3u8
+#EXTINF:0 group-title="(IT) Italy",TELE ARENA SIENA | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12477.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",EDGE SPORT | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13932.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",EURO SPORT 2 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13933.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",EUROSPORT 1 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13934.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",EXTREME SPORTS | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13112.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 3 | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13097.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13133.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13132.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13131.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13130.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 5 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13129.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 6 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13128.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",GOLF | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13108.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 1 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13980.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 1 | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13122.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 2 | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13981.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 2 | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13121.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13982.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13120.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT RACING | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13125.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT RACING | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13119.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT SELECT | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13127.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT SELECT | SD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13124.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT VOETBAL | HD (NL)
+http://mag.homeip.net:8080/live/gazi1/12345/13126.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",POLSAT SPORT | SD (PL)
+http://37.59.34.182:8000/live/POLAND/POLAND/2049.m3u8
+#EXTINF:0 group-title="(PL) Poland",POLSAT SPORT EXTRA | SD (PL)
+http://37.59.34.182:8000/live/POLAND/POLAND/2050.m3u8
+#EXTINF:0 group-title="(PL) Poland",POLSAT SPORT NEWS | HD (PL)
+http://37.59.34.182:8000/live/POLAND/POLAND/2054.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",CHELSEA TV | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10033.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CHELSEA TV (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10033.m3u8
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10056.m3u8
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10056.m3u8
+#EXTINF:0 group-title="(PT) Portugal",KOMBAT SPORTS | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10055.m3u8
+#EXTINF:0 group-title="(PT) Portugal",KOMBAT SPORTS (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10055.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10060.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10060.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10059.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10059.m3u8
+#EXTINF:0 group-title="(PT) Portugal",NBA TV | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10072.m3u8
+#EXTINF:0 group-title="(PT) Portugal",NBA TV (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10072.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/13584.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13584.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/13583.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13583.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/13582.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13582.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 4 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/13581.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 4 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13581.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 5 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/13580.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 5 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13580.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10067.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10067.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",DIGI SPORT 1 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11752.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGI SPORT 2 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11753.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGI SPORT 3 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11754.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGI SPORT 4 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11755.m3u8
+#EXTINF:0 group-title="(RO) Romania",DOLCE SPORT 1 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11807.m3u8
+#EXTINF:0 group-title="(RO) Romania",DOLCE SPORT 2 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11806.m3u8
+#EXTINF:0 group-title="(RO) Romania",DOLCE SPORT 5 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11805.m3u8
+#EXTINF:0 group-title="(RO) Romania",DOLCE SPORT 6 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11804.m3u8
+#EXTINF:0 group-title="(RO) Romania",EUROSPORT 1 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11760.m3u8
+#EXTINF:0 group-title="(RO) Romania",EUROSPORT 2 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11761.m3u8
+#EXTINF:0 group-title="(RO) Romania",FISHING & HUNTING | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11762.m3u8
+#EXTINF:0 group-title="(RO) Romania",SPORT | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11791.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",MATCH SPORTS | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9863.m3u8
+#EXTINF:0 group-title="(RU) Russia",XTREAM SPORTS | SD (RU)
+http://mag.homeip.net:8080/live/gazi1/12345/9770.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 1 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13023.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 1 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13024.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13021.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13022.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13019.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13020.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13017.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13018.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 RESERVE | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13528.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 5 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13015.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 5 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13016.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT PRIMIER LEAGUE | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13530.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",EUROSPORT 1 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12992.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",EUROSPORT 2 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12991.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FIGHTBOX | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12989.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KSPORT NOVI FILM 1 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12949.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13529.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 1 | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13035.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 1 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12845.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 2 | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13034.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 2 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12844.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 3 | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13033.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 3 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12843.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 5 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12842.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 6 | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12841.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 6 (1+) | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13527.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB CHANNEL | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12840.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB GOLF | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12839.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT TV 1 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12838.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT TV 2 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12837.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT TV 3 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12836.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORTKLUB 1 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12835.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORTKLUB 2 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12834.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORTKLUB 3 SLO | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12833.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORTSKA TV | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13774.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",DIGI SPORT 4 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13514.m3u8
+#EXTINF:0 group-title="(SP) Spain",DOLCE-SPORT-2 | HD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13510.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS | HD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13525.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 1 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13524.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 2 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13523.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 3 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13522.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 4 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13521.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 5 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13520.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKYNET SPORTS 6 | SD (SP)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13519.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",C MORE FOTBOLL | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13329.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE GOLF | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13322.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE SPORT | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13325.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10947.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT 1 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10599.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT 1 (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13347.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT 2 | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10597.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT 2 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10598.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT PLUSS 1 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10946.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT PLUSS 2 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10945.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT PLUSS 3 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10944.m3u8
+#EXTINF:0 group-title="(SE) Sweden",SPORT KANALEN | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13330.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 SPORT | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10640.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 SPORT PREMIUM 2 | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10953.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 SPORTSKANALEN | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10955.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 SPORT | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13377.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 SPORT 1 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10632.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV4 SPORT | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13376.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIA SPORT 1 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10950.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIA SPORT 2 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10949.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIA SPORT 3 | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10948.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIA SPORT PLUS | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10951.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOTBOLL | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10940.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOTBOLL | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10606.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOTBOLL (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13315.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT GOLF | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10939.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT GOLF (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13309.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT MOTOR | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10937.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT MOTOR (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13312.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SPORT | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/10610.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",A SPOR | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3494.m3u8
+#EXTINF:0 group-title="(TR) Turkey",A SPOR (1+) | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3495.m3u8
+#EXTINF:0 group-title="(TR) Turkey",A SPOR (2+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3494.m3u8
+#EXTINF:0 group-title="(TR) Turkey",A SPOR (3+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3495.m3u8
+#EXTINF:0 group-title="(TR) Turkey",A SPOR UHD 1080 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9019.m3u8
+#EXTINF:0 group-title="(TR) Turkey",A SPOR UHD 1080 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9019.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ASPOR | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8923.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ASPOR (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8923.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ASPOR 1080 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3493.m3u8
+#EXTINF:0 group-title="(TR) Turkey",ASPOR 1080 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3493.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 1 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9031.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 1 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9031.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 2 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9032.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 2 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9032.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9033.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9033.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9034.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9034.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9048.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9048.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9040.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9040.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 YDK | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9047.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 YDK (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9047.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9041.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9041.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 3 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9042.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 3 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9042.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 4 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9043.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 4 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9043.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS HABER | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9044.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS HABER (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9044.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS MAX 1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9045.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS MAX 1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9045.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS MAX 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9046.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS MAX 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9046.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 1 SD420 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7757.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 1 SD420 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7757.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 1-HD720 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7753.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 1-HD720 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7753.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 2 SD420 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7756.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 2 SD420 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7756.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 2-HD720 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7752.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 2-HD720 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7752.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 3 SD420 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7755.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 3 SD420 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7755.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 3-HD720 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7751.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 3-HD720 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7751.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 4 SD420 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7754.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 4 SD420 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7754.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 4-HD720 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/7750.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPOR 4-HD720 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/7750.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPORTS HABER | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8932.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEINSPORTS HABER (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8932.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BURSASPOR TV | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9460.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BURSASPOR TV (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9460.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BURSASPORTV | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8937.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BURSASPORTV (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8937.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CBC SPORT | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13567.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO-SPORT-1 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8829.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO-SPORT-1 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8829.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO-SPORT-2 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8830.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO-SPORT-2 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8830.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8949.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8949.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8950.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8950.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FIGHTBOX | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3501.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FIGHTBOX (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3501.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NBA TV | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3499.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NBA TV (1+) | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8831.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NBA TV (2+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3499.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NBA TV (3+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8831.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SARANSPORT | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8832.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SARANSPORT (1+) | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8985.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SARANSPORT (2+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8832.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SARANSPORT (3+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8985.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMARTSPOR | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8824.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMARTSPOR (1+) | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9035.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMARTSPOR (2+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8824.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMARTSPOR (3+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9035.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORSMART | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3507.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORSMART (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3507.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORTS | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3506.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORTS (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3506.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORTSTV | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8990.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORTSTV (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8990.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SSPORT | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3505.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SSPORT (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3505.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9039.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9039.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9038.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9038.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 3 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9037.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 3 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9037.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 4 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9036.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 4 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9036.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8825.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8825.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8826.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8826.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 3 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8827.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 3 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8827.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 4 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8828.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 4 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8828.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3496.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR (1+) | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3497.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR (2+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3496.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR (3+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3497.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRTSPOR | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/9006.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRTSPOR (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/9006.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRTSPOR 1080 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/3492.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRTSPOR 1080 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/3492.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS 11 | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10246.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS 12 | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10248.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS 13 | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10250.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11443.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11443.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11442.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11442.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11441.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11441.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11440.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11440.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11439.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 1 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11439.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11438.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 2 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11438.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 3 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11437.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 5 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11435.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 5 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11435.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11422.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11422.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 3 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11421.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 3 (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11421.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EDGE SPORT | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11430.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11433.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/13629.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13629.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/13628.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 2 (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13628.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11429.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11425.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11406.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FREE SPORTS | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11434.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/13517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC (1+) | SD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11431.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SETANTA SPORT | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11426.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BOX NATION | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11424.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOTOGP | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11320.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11419.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 2 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11417.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11418.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 3 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11415.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 3 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11416.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 4 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11414.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 5 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11413.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT F1 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11427.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11412.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11411.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11410.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11409.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11408.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11448.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11447.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11446.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11444.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11407.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11445.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11452.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11453.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11454.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11450.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE IRELAND | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11449.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",AFN SPORTS | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11944.m3u8
+#EXTINF:0 group-title="(US) United States",AFN SPORTS (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11944.m3u8
+#EXTINF:0 group-title="(US) United States",BEIN SPORT | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11935.m3u8
+#EXTINF:0 group-title="(US) United States",BEIN SPORT (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11935.m3u8
+#EXTINF:0 group-title="(US) United States",BEIN SPORTS | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13613.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | HD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11912.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN (1+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4737.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN (2+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11912.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN (3+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13624.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN (1+) | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11914.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN (2+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11914.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 2 | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4736.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11913.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 2 (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11913.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 3 | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11911.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 3 (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11911.m3u8
+#EXTINF:0 group-title="(US) United States",FIGHT BOX | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11910.m3u8
+#EXTINF:0 group-title="(US) United States",FIGHT BOX (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11910.m3u8
+#EXTINF:0 group-title="(US) United States",FIGHTBOX | HD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11904.m3u8
+#EXTINF:0 group-title="(US) United States",FIGHTBOX (1+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11904.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SOCCER PLUS | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11908.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SOCCER PLUS (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11908.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4743.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11901.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11901.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11900.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11900.m3u8
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11872.m3u8
+#EXTINF:0 group-title="(US) United States",NBA TV (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11872.m3u8
+#EXTINF:0 group-title="(US) United States",NBC GOLF | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4730.m3u8
+#EXTINF:0 group-title="(US) United States",NBC GOLF (1+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13617.m3u8
+#EXTINF:0 group-title="(US) United States",NBC SPORTS PREMIER LEAGUE | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13615.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4735.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11870.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11870.m3u8
+#EXTINF:0 group-title="(US) United States",REDBULL TV | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13626.m3u8
+#EXTINF:0 group-title="(US) United States",SPORT 1 | HD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/13634.m3u8
+#EXTINF:0 group-title="(US) United States",SPORT 1 (1+) | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13634.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTS NET ONE | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4738.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTSNET ONTARIO PREMIER LEAGUE | HD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13614.m3u8
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11845.m3u8
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11845.m3u8
+#EXTINF:0 group-title="(US) United States",UFC FIGHT PASS | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11840.m3u8
+#EXTINF:0 group-title="(US) United States",UFC FIGHT PASS (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11840.m3u8
+#EXTINF:0 group-title="(US) United States",WILLOW CRICKET | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13627.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",BE VOO SPORT 1 | SD (WW)
+http://mag.homeip.net:8080/live/gazi1/12345/9211.m3u8
+#EXTINF:0 group-title="(WW) World Wide",BE VOO SPORT 2 | SD (WW)
+http://mag.homeip.net:8080/live/gazi1/12345/9210.m3u8
+#EXTINF:0 group-title="(WW) World Wide",BEIN SPORTS CUP 2 | HD (WW)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10266.m3u8
+#EXTINF:0 group-title="(WW) World Wide",BEIN SPORTS CUP 4 FRENCH | HD (WW)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10268.m3u8
