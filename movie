@@ -1,0 +1,971 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10173.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10173.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ART CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10228.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ART CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10228.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 1HD | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10237.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 1HD (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10237.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 2HD | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10238.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 2HD (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10238.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 3 | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10239.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 3 (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10239.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 3HD | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10509.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 3HD (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10509.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 4 | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10240.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 4 (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10240.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 4HD | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10510.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 4HD (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10510.m3u8
+#EXTINF:0 group-title="(AR) Arabia",CAIRO CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10273.m3u8
+#EXTINF:0 group-title="(AR) Arabia",CAIRO CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10273.m3u8
+#EXTINF:0 group-title="(AR) Arabia",CINEMA PRO | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10281.m3u8
+#EXTINF:0 group-title="(AR) Arabia",CINEMA PRO (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10281.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10115.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE CINEMA (1+) | SD (AR)
+http://144.217.72.121:8000/live/nova1764/a1764/911.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE CINEMA (2+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10115.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 1 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10571.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 1 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10571.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10572.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10572.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN FOX MOVIES | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10582.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN FOX MOVIES (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10582.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIE COMEDY | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10415.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIE COMEDY (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10415.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10550.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10550.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES 2 | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10543.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES 2 (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10543.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10416.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION 2 | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10122.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION 2 (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10122.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10544.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10544.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES COMEDY | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10545.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES COMEDY (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10545.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10547.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10547.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10417.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10417.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10546.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES DRAMA 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10546.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FAMILY | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10548.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FAMILY (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10548.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FESTIVAL | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10549.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FESTIVAL (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10549.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FESTIVAL | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10418.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES FESTIVAL (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10418.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES KIDS | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10551.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES KIDS (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10551.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES KIDS | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10419.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES KIDS (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10419.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREM 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10552.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREM 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10552.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10422.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10422.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10420.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10420.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE 2HD | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10421.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PREMIERE 2HD (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10421.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PRIEMER | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10553.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES PRIEMER (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10553.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN STAR MOVIES | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10433.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN STAR MOVIES (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10433.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN YA HALA CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10565.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN YA HALA CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10565.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHALA CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10435.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHALA CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10435.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA | HD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10447.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA (1+) | HD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10447.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10446.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10446.m3u8
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 1 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10474.m3u8
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 1 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10474.m3u8
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 2 | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10475.m3u8
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 2 (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10475.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TIME CINEMA | SD (AR)
+http://mag.homeip.net:8080/live/gazi1/12345/10492.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TIME CINEMA (1+) | SD (AR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10492.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 1 | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/9222.m3u8
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 1 (1+) | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/13987.m3u8
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 2 | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/9221.m3u8
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 2 (1+) | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/13988.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",BTV-CINEMA | SD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11706.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",CINEMA PLUS | SD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11709.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",CINEMAX 1 | HD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11675.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",CINEMAX 2 | HD (BG)
+http://mag.homeip.net:8080/live/gazi1/12345/11676.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13260.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13260.m3u8
+#EXTINF:0 group-title="(FR) France",CINE ACTION | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13245.m3u8
+#EXTINF:0 group-title="(FR) France",CINE ACTION (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13245.m3u8
+#EXTINF:0 group-title="(FR) France",CINE CLASSIC | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13251.m3u8
+#EXTINF:0 group-title="(FR) France",CINE CLASSIC (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13251.m3u8
+#EXTINF:0 group-title="(FR) France",CINE CLUB | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13252.m3u8
+#EXTINF:0 group-title="(FR) France",CINE CLUB (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13252.m3u8
+#EXTINF:0 group-title="(FR) France",CINE COMEDIE | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13247.m3u8
+#EXTINF:0 group-title="(FR) France",CINE COMEDIE (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13247.m3u8
+#EXTINF:0 group-title="(FR) France",CINE EMOTION | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13253.m3u8
+#EXTINF:0 group-title="(FR) France",CINE EMOTION (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13253.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FAMIZ | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13246.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FAMIZ (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13246.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FRISSON | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13254.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FRISSON (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13254.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FX | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13249.m3u8
+#EXTINF:0 group-title="(FR) France",CINE FX (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13249.m3u8
+#EXTINF:0 group-title="(FR) France",CINE POLAR | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13248.m3u8
+#EXTINF:0 group-title="(FR) France",CINE POLAR (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13248.m3u8
+#EXTINF:0 group-title="(FR) France",CINE PREMIER | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13255.m3u8
+#EXTINF:0 group-title="(FR) France",CINE PREMIER (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13255.m3u8
+#EXTINF:0 group-title="(FR) France",CINE STAR | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13250.m3u8
+#EXTINF:0 group-title="(FR) France",CINE STAR (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13250.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY CINEMA | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13237.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY CINEMA (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13237.m3u8
+#EXTINF:0 group-title="(FR) France",PARAMOUNT CHANNEL | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13267.m3u8
+#EXTINF:0 group-title="(FR) France",PARAMOUNT CHANNEL (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13267.m3u8
+#EXTINF:0 group-title="(FR) France",TCM CINEMA | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13243.m3u8
+#EXTINF:0 group-title="(FR) France",TCM CINEMA (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13243.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",DISNEY CINEMAGIC | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8686.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY CINEMAGIC (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8686.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8734.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12323.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8734.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12323.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12331.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12331.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 1 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8728.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 1 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12330.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 1 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8728.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 1 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12330.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12322.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12322.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8729.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12329.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8729.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12329.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8730.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12318.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8730.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12318.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12325.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA ACTION (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12325.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12319.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12319.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8731.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12326.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8731.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA COMEDY (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12326.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12317.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12317.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8732.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12324.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8732.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA EMOTION (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12324.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12320.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12320.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8733.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY (1+) | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12327.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY (2+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8733.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA FAMILY (3+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12327.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8735.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS (1+) | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12321.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS (2+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8735.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS (3+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12321.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/12328.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA HITS (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12328.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA NOSTALGIE | SD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8736.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA NOSTALGIE (1+) | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8736.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",CINEMANIA | SD (GR)
+http://mag.homeip.net:8080/live/gazi1/12345/9929.m3u8
+
+#EXTINF:0 group-title="(IN) India",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",ASIANET MOVIES | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10726.m3u8
+#EXTINF:0 group-title="(IN) India",B4U MOVIES TV | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10723.m3u8
+#EXTINF:0 group-title="(IN) India",BOLLYWOOD MOVIES | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10769.m3u8
+#EXTINF:0 group-title="(IN) India",JAYA MOVIES | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10714.m3u8
+#EXTINF:0 group-title="(IN) India",MAA GOLD MOVIES | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10709.m3u8
+#EXTINF:0 group-title="(IN) India",MOVIES OK | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10707.m3u8
+#EXTINF:0 group-title="(IN) India",MOVIES OK TV | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10706.m3u8
+#EXTINF:0 group-title="(IN) India",STAR MOVIES | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10691.m3u8
+#EXTINF:0 group-title="(IN) India",UTV MOVIES | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10676.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE ANMOL CINEMA | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10672.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE CINEMA | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10667.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE CINEMA (1+) | HD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10739.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE CINEMA | SD (IN)
+http://mag.homeip.net:8080/live/gazi1/12345/10668.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",CINE SONY | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/13499.m3u8
+#EXTINF:0 group-title="(IT) Italy",CINE SONY (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13499.m3u8
+#EXTINF:0 group-title="(IT) Italy",PARAMOUNT CHANNEL | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12552.m3u8
+#EXTINF:0 group-title="(IT) Italy",PARAMOUNT CHANNEL (1+) | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/13491.m3u8
+#EXTINF:0 group-title="(IT) Italy",PARAMOUNT CHANNEL (2+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12552.m3u8
+#EXTINF:0 group-title="(IT) Italy",PARAMOUNT CHANNEL (3+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13491.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12548.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12548.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 1 | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12550.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 1 (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12550.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12545.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12545.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 24 | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12544.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 24 (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12544.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12547.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 (1+) | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/13496.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 (2+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12547.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 (3+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13496.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12546.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 24 (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12546.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIE | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/13507.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIE (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13507.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIE | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12608.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIE (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12608.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 | SD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12570.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 (1+) | SD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12570.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 24 | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12569.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 24 (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12569.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CLASSIC | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12562.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CLASSIC (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12562.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA COMEDY | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12566.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA COMEDY (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12566.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CULT | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12563.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CULT (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12563.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA FAMILY | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12567.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA FAMILY (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12567.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA HITS | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12568.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA HITS (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12568.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA PASSION | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/12564.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA PASSION (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12564.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",CINEMAX | HD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14444.m3u8
+#EXTINF:0 group-title="(PL) Poland",PARAMOUNT CHANNEL | HD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14438.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",CINE MUNDO | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10094.m3u8
+#EXTINF:0 group-title="(PT) Portugal",CINE MUNDO (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10094.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX MOVIES | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10097.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOX MOVIES (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10097.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10061.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10061.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10086.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10086.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 2 | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10085.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 2 (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10085.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 3 | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10084.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 3 (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10084.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 4 | SD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10083.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 4 (1+) | SD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10083.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",CINEMAX 2 | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11746.m3u8
+#EXTINF:0 group-title="(RO) Romania",PARAMOUNT CHANNEL | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11782.m3u8
+#EXTINF:0 group-title="(RO) Romania",PRO CINEMA | SD (RO)
+http://mag.homeip.net:8080/live/gazi1/12345/11786.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINEMANIA | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13767.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINEMAX | HD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13002.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX MOVIES SUB | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12977.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OYO CINEMA | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/13765.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK MOVIES | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12903.m3u8
+
+#EXTINF:0 group-title="(CH) Switzerland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",TC CINEMA | SD (CH)
+http://mag.homeip.net:8080/live/gazi1/12345/9249.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TELECLUB CINEMA | HD (CH)
+http://mag.homeip.net:8080/live/gazi1/12345/9278.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8860.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8860.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES ACTION | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8853.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES ACTION (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8853.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES ACTION 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8852.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES ACTION 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8852.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES COMEDY | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8854.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES COMEDY (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8854.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES FAMILY | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8855.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES FAMILY (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8855.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES FESTIVAL | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8856.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES FESTIVAL (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8856.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES PREMIERE | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8858.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES PREMIERE (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8858.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES PREMIERE 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8857.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES PREMIERE 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8857.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES STARS | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8859.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN MOVIES STARS (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8859.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 1 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/12352.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 1 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12352.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 2 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/12351.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 2 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12351.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 3 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/12350.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CAPTAIN MOVIES 3 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12350.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13828.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13828.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX AKSIYON | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13819.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX AKSIYON (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13819.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX ANIMASYON | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13820.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX ANIMASYON (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13820.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX BILIMKURGU | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13821.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX BILIMKURGU (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13821.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX DE | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8889.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX DE (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8889.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX DRAM | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13822.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX DRAM (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13822.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX FANTASTIK | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13823.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX FANTASTIK (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13823.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KEMALSUNAL | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13824.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KEMALSUNAL (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13824.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KOMEDI | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13825.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KOMEDI (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13825.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KORKU | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13826.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX KORKU (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13826.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX MACERA | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13827.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX MACERA (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13827.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX TR | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8890.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX TR (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8890.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX YESILCAM | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/13829.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX YESILCAM (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13829.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX1 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8882.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX1 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8882.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX2 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8883.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX2 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8883.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX3 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8884.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX3 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8884.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX4 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8885.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX4 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8885.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX5 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8886.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX5 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8886.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX6 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8887.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX6 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8887.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX7 | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8888.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEBOX7 (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8888.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 1 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4779.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 1 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4779.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 10 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4770.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 10 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4770.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4778.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4778.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 3 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4777.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 3 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4777.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 4 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4776.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 4 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4776.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 5 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4775.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 5 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4775.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 6 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4774.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 6 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4774.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 7 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4773.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 7 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4773.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 8 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4772.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 8 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4772.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 9 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4771.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE 9 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4771.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE INFO | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/4780.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CINEVIPOFFICE INFO (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4780.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOXHD CINEVIP ALTYAZI FILMLER | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8837.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOXHD MOVIEMAX | SD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8844.m3u8
+#EXTINF:0 group-title="(TR) Turkey",FILMBOXHD MOVIEMAX (1+) | SD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8844.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8874.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8874.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART ACTION | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8865.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART ACTION (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8865.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART CLASSIC | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8866.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART CLASSIC (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8866.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART FAMILY | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8867.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART FAMILY (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8867.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART FEST | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8868.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART FEST (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8868.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART GOLD | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8869.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART GOLD (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8869.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PLATIN | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8871.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PLATIN (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8871.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PLATIN 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8870.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PLATIN 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8870.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PREMIUM | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8873.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PREMIUM (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8873.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PREMIUM 2 | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8872.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIE SMART PREMIUM 2 (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8872.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIEMAXTURK | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8973.m3u8
+#EXTINF:0 group-title="(TR) Turkey",MOVIEMAXTURK (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8973.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",CINEMA PREMIERE BEAUTY AND THE BEAST 2017 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11375.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN 1 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/31321.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES24 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES4MAN1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11343.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIUM CINEMA | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/12549.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIUM CINEMA (1+) | HD (UK)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/12549.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY CINE PLEX | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/32784.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27094.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DISNEY | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11378.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DRAMA | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21865.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11377.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27093.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SCFI / HORROR | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11878.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SCI-FI / HORROR | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/13626.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27097.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/23804.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27096.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES ACTION | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11369.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES ACTION & ADVENTURE | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11372.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES COMEDY | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11367.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES CRIME &THRILLER | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES DISNEY | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11354.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES DRAMA & ROMANCE | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11365.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES DRAMA & ROMANCE (1+) | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11366.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES FAMILY | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11368.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES GREATS | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11361.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES HITS SHOWCASE | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11371.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES PREMIERE | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11373.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES SCI-FI & HORROR | HD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11362.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES SELECT | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11360.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY MOVIE | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11325.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/26494.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 1 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11337.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 2 | SD (UK)
+http://mag.homeip.net:8080/live/gazi1/12345/11336.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",CINEMAX ACTIONMAX | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/4745.m3u8
+#EXTINF:0 group-title="(US) United States",CINEMAX ACTIONMAX (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4745.m3u8
+#EXTINF:0 group-title="(US) United States",CINEMAX MOREMAX | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/4744.m3u8
+#EXTINF:0 group-title="(US) United States",CINEMAX THRILLER | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11925.m3u8
+#EXTINF:0 group-title="(US) United States",STARZ CINEMA | SD (US)
+http://mag.homeip.net:8080/live/gazi1/12345/11856.m3u8
+#EXTINF:0 group-title="(US) United States",STARZ CINEMA (1+) | SD (US)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/11856.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",EX-YU | SD (WW)
+http://mag.homeip.net:8080/live/gazi1/12345/12885.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UTV MOVIES | SD (WW)
+http://mag.homeip.net:8080/live/gazi1/12345/10675.m3u8
+#EXTINF:0 group-title="(WW) World Wide",ZEE CINEMA | SD (WW)
+http://mag.homeip.net:8080/live/gazi1/12345/10738.m3u8
