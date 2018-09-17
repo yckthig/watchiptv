@@ -1,0 +1,154 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",KS SERIAL | SD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14140.m3u8
+#EXTINF:0 group-title="(AL) Albania",KS SERIES | HD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14130.m3u8
+#EXTINF:0 group-title="(AL) Albania",LUGINA SERIAL | HD (AL)
+http://mag.homeip.net:8080/live/gazi1/12345/14087.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",SERIES | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/9227.m3u8
+#EXTINF:0 group-title="(BE) Belgium",SERIES (1+) | HD (BE)
+http://mag.homeip.net:8080/live/gazi1/12345/13999.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",CANAL SERIES | HD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13256.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SERIES (1+) | HD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13256.m3u8
+#EXTINF:0 group-title="(FR) France",SERIE CLUB | SD (FR)
+http://mag.homeip.net:8080/live/gazi1/12345/13244.m3u8
+#EXTINF:0 group-title="(FR) France",SERIE CLUB (1+) | SD (FR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13244.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",FOX SERIE | SD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8697.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://mag.homeip.net:8080/live/gazi1/12345/8766.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE (1+) | HD (DE)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8766.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT SERIE A | HD (IT)
+http://mag.homeip.net:8080/live/gazi1/12345/13562.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT SERIE A (1+) | HD (IT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/13562.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",CANAL SERIALE | HD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14453.m3u8
+#EXTINF:0 group-title="(PL) Poland",TVP SERIALE | SD (PL)
+http://mag.homeip.net:8080/live/gazi1/12345/14428.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",TV SERIES | HD (PT)
+http://mag.homeip.net:8080/live/gazi1/12345/10069.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV SERIES (1+) | HD (PT)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10069.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SERIJE | SD (EX-YU)
+http://mag.homeip.net:8080/live/gazi1/12345/12892.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",C MORE SERIES | HD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/9293.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE SERIES | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13327.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SERIES | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/9288.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SERIES (1+) | SD (SE)
+http://mag.homeip.net:8080/live/gazi1/12345/13308.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES COMEDY | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8861.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES COMEDY (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8861.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES DRAMA | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8862.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES DRAMA (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8862.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES SCI-FI | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8863.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES SCI-FI (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8863.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES VICE | HD (TR)
+http://mag.homeip.net:8080/live/gazi1/12345/8864.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SERIES VICE (1+) | HD (TR)
+http://secure4k.homeip.net:8080/live/3886742/aktifexpres/8864.m3u8
