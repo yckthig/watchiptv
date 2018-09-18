@@ -604,3 +604,75 @@ http://144.217.72.121:8000/live/nova1764/a1764/1400.m3u8
 http://144.217.72.121:8000/live/nova1764/a1764/1408.m3u8
 #EXTINF:0 group-title="(PT) Portugal",SPORTTV 5 | SD
 http://144.217.72.121:8000/live/nova1764/a1764/1398.m3u8
+
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT 1 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17644.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT 2 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17500.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT 3 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17499.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT1 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17498.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL SHARJAH SPORTS | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17464.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17419.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORT 1 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17591.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17572.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 1 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17571.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 2 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17570.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 3 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17569.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17568.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAISPORT 3 | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17401.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IRAQIA SPORTS | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17385.m3u8
+#EXTINF:0 group-title="(AR) Arabia",JORDAN SPORTS | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17383.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17376.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT SPORTS | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17375.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORTS 1 | HD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17653.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORTS 2 | HD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17652.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PROSPORT 3 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/915.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MCB SPORT 1 | HD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17649.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT | SD
+http://144.217.72.121:8000/live/nova1764/a1764/909.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT (1+) | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17530.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE-SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17343.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OMAN SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17336.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ON SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17334.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 1 | HD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17692.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN ALKASS SPORT 2 | HD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17691.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17521.m3u8
+#EXTINF:0 group-title="(AR) Arabia",YAS SPORT | SD
+http://163.172.89.139:1795/live/oguzcan/oguzcan/17281.m3u8
