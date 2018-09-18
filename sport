@@ -560,3 +560,47 @@ http://s1.iptv-pla.net:7040/live/07070707/07070707/6446.ts
 http://s1.iptv-pla.net:7040/live/07070707/07070707/9333.ts
 #EXTINF:-1 tvg-ID="BFM Sport FR" tvg-name="FR:BFMSPORT" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bfm_sp10.png" group-title="CSAT-FRANCE HD",FR:BFMSPORT
 http://s1.iptv-pla.net:7040/live/07070707/07070707/6431.ts
+
+#EXTM3U
+
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT 1 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1429.m3u8
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT 2 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1428.m3u8
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT NEWS | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1427.m3u8
+#EXTINF:0 group-title="(PT) Portugal",KOMBAT SPORT | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1420.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1407.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1598.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1599.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1600.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1402.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 4 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1601.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 5 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1602.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV1 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1406.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV2 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1404.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV4 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1400.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | HD
+http://144.217.72.121:8000/live/nova1764/a1764/1408.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 5 | SD
+http://144.217.72.121:8000/live/nova1764/a1764/1398.m3u8
