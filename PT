@@ -1,249 +1,576 @@
 #EXTM3U
-
-
-#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(PT) Portugal",24KITCHEN | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10039.m3u8
-#EXTINF:0 group-title="(PT) Portugal",24KITCHEN (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10039.m3u8
-#EXTINF:0 group-title="(PT) Portugal",A BOLA TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10036.m3u8
-#EXTINF:0 group-title="(PT) Portugal",A BOLA TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10036.m3u8
-#EXTINF:0 group-title="(PT) Portugal",A&E | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10046.m3u8
-#EXTINF:0 group-title="(PT) Portugal",A&E (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10046.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10089.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN (1+) | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10090.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN (2+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10089.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN (3+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10090.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN BLACK | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10100.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN BLACK (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10100.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN WHITE | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10091.m3u8
-#EXTINF:0 group-title="(PT) Portugal",AXN WHITE (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10091.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10037.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10037.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10035.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10035.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 2 | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10034.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 2 (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10034.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BIGGS | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10050.m3u8
-#EXTINF:0 group-title="(PT) Portugal",BIGGS (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10050.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CACA E PESCA | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10052.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CACA E PESCA (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10052.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CACAVISION | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10053.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CACAVISION (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10053.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CANAL PANDA | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10040.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CANAL PANDA (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10040.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CBS REALITY | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10062.m3u8
-#EXTINF:0 group-title="(PT) Portugal",CBS REALITY (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10062.m3u8
-#EXTINF:0 group-title="(PT) Portugal",DISCOVERY SHOWCASE | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10054.m3u8
-#EXTINF:0 group-title="(PT) Portugal",DISCOVERY SHOWCASE (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10054.m3u8
-#EXTINF:0 group-title="(PT) Portugal",ENTERTAINMENT | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10051.m3u8
-#EXTINF:0 group-title="(PT) Portugal",ENTERTAINMENT (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10051.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10099.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10099.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10096.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10096.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX CRIME | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10095.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX CRIME (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10095.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX LIFE | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10098.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FOX LIFE (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10098.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FUEL TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10057.m3u8
-#EXTINF:0 group-title="(PT) Portugal",FUEL TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10057.m3u8
-#EXTINF:0 group-title="(PT) Portugal",GLOBO TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10058.m3u8
-#EXTINF:0 group-title="(PT) Portugal",GLOBO TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10058.m3u8
-#EXTINF:0 group-title="(PT) Portugal",HISTORIA | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10043.m3u8
-#EXTINF:0 group-title="(PT) Portugal",HISTORIA (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10043.m3u8
-#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10088.m3u8
-#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10088.m3u8
-#EXTINF:0 group-title="(PT) Portugal",JIM JAM | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10077.m3u8
-#EXTINF:0 group-title="(PT) Portugal",JIM JAM (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10077.m3u8
-#EXTINF:0 group-title="(PT) Portugal",LIFESTYLE TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10071.m3u8
-#EXTINF:0 group-title="(PT) Portugal",LIFESTYLE TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10071.m3u8
-#EXTINF:0 group-title="(PT) Portugal",MCS EXTREME | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10075.m3u8
-#EXTINF:0 group-title="(PT) Portugal",MCS EXTREME (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10075.m3u8
-#EXTINF:0 group-title="(PT) Portugal",MOV | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10087.m3u8
-#EXTINF:0 group-title="(PT) Portugal",MOV (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10087.m3u8
-#EXTINF:0 group-title="(PT) Portugal",NAT GEO WILD | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10042.m3u8
-#EXTINF:0 group-title="(PT) Portugal",NAT GEO WILD (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10042.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PANDA BIGGS | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10081.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PANDA BIGGS (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10081.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PFC | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10063.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PFC (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10063.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PORTO CANAL | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10074.m3u8
-#EXTINF:0 group-title="(PT) Portugal",PORTO CANAL (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10074.m3u8
-#EXTINF:0 group-title="(PT) Portugal",Q CANAL | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10064.m3u8
-#EXTINF:0 group-title="(PT) Portugal",Q CANAL (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10064.m3u8
-#EXTINF:0 group-title="(PT) Portugal",REDE TV | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10065.m3u8
-#EXTINF:0 group-title="(PT) Portugal",REDE TV (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10065.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 1 | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10109.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 1 (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10109.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 1 | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10108.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 1 (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10108.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 2 | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10107.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 2 (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10107.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 3 | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10106.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP 3 (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10106.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP ACORES | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10103.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP ACORES (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10103.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10105.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10105.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10104.m3u8
-#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10104.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10049.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10049.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC CARAS | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10066.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC CARAS (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10066.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC MULHER | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10047.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC MULHER (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10047.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC NOTICIAS | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10048.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC NOTICIAS (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10048.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10073.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10073.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SYFY | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10093.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SYFY (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10093.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SYFY | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10092.m3u8
-#EXTINF:0 group-title="(PT) Portugal",SYFY (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10092.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TLC | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10068.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TLC (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10068.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TRAVEL CHANNEL | HD
-http://mag.homeip.net:8080/live/gazi1/12345/10041.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TRAVEL CHANNEL (1+) | HD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10041.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV ARCA DA ALIANCA | SD
-http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV BETEL | SD
-http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV LOUVAR | SD
-http://173.236.10.10:1935/renascer/renascer/live.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV RECORD | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10101.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV RECORD (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10101.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV RIO | SD
-http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TV VERDADE | SD
-http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVE | SD
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10045.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10045.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI 24 | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10044.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI 24 (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10044.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI FICCAO | SD
-http://144.217.72.121:8000/live/nova1764/a1764/370.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI REALITY | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10070.m3u8
-#EXTINF:0 group-title="(PT) Portugal",TVI REALITY (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10070.m3u8
-#EXTINF:0 group-title="(PT) Portugal",WOOHOO | SD
-http://mag.homeip.net:8080/live/gazi1/12345/10032.m3u8
-#EXTINF:0 group-title="(PT) Portugal",WOOHOO (1+) | SD
-http://secure4k.homeip.net:8080/live/3886742/aktifexpres/10032.m3u8
+#EXTINF:-1,ES: Moviestar Series
+http://190.2.150.145:1978/live/01000/01000/6465.ts
+#EXTINF:-1,ES:All sport hd
+http://190.2.150.145:1978/live/01000/01000/6426.ts
+#EXTINF:-1,ES:Antena 3
+http://190.2.150.145:1978/live/01000/01000/6464.ts
+#EXTINF:-1,ES:Aragontv
+http://190.2.150.145:1978/live/01000/01000/6425.ts
+#EXTINF:-1,ES:AXN
+http://190.2.150.145:1978/live/01000/01000/6463.ts
+#EXTINF:-1,ES:Baja tv
+http://190.2.150.145:1978/live/01000/01000/6424.ts
+#EXTINF:-1,ES:Beinsport
+http://190.2.150.145:1978/live/01000/01000/6418.ts
+#EXTINF:-1,ES:Casa.Y.Pesca
+http://190.2.150.145:1978/live/01000/01000/6414.ts
+#EXTINF:-1,ES:Catelmontv
+http://190.2.150.145:1978/live/01000/01000/6413.ts
+#EXTINF:-1,ES:Cetelmon TV
+http://190.2.150.145:1978/live/01000/01000/6452.ts
+#EXTINF:-1,ES:Cosmo
+http://190.2.150.145:1978/live/01000/01000/6447.ts
+#EXTINF:-1,ES:COSMO_HD
+http://190.2.150.145:1978/live/01000/01000/6451.ts
+#EXTINF:-1,ES:Cuatro
+http://190.2.150.145:1978/live/01000/01000/6412.ts
+#EXTINF:-1,ES:DISNEY_CH
+http://190.2.150.145:1978/live/01000/01000/6449.ts
+#EXTINF:-1,ES:ETB Sat
+http://190.2.150.145:1978/live/01000/01000/6448.ts
+#EXTINF:-1,ES:FOX_HD
+http://190.2.150.145:1978/live/01000/01000/6446.ts
+#EXTINF:-1,ES:Fox_life
+http://190.2.150.145:1978/live/01000/01000/6445.ts
+#EXTINF:-1,ES:Galicia TV
+http://190.2.150.145:1978/live/01000/01000/6444.ts
+#EXTINF:-1,ES:Hit tv
+http://190.2.150.145:1978/live/01000/01000/6411.ts
+#EXTINF:-1,ES:HOLLYWOOD
+http://190.2.150.145:1978/live/01000/01000/6443.ts
+#EXTINF:-1,ES:LA
+http://190.2.150.145:1978/live/01000/01000/6410.ts
+#EXTINF:-1,ES:La_2
+http://190.2.150.145:1978/live/01000/01000/6407.ts
+#EXTINF:-1,ES:LA-LIGA-TV
+http://190.2.150.145:1978/live/01000/01000/6409.ts
+#EXTINF:-1,ES:LA-SEXTA -HD
+http://190.2.150.145:1978/live/01000/01000/6408.ts
+#EXTINF:-1,ES:Logos tv
+http://190.2.150.145:1978/live/01000/01000/6406.ts
+#EXTINF:-1,ES:LTC
+http://190.2.150.145:1978/live/01000/01000/6436.ts
+#EXTINF:-1,ES:Mc music
+http://190.2.150.145:1978/live/01000/01000/6405.ts
+#EXTINF:-1,ES:MEGA
+http://190.2.150.145:1978/live/01000/01000/6404.ts
+#EXTINF:-1,ES:Melilla tv
+http://190.2.150.145:1978/live/01000/01000/6403.ts
+#EXTINF:-1,ES:Miama tv
+http://190.2.150.145:1978/live/01000/01000/6402.ts
+#EXTINF:-1,ES:NEOX
+http://190.2.150.145:1978/live/01000/01000/6440.ts
+#EXTINF:-1,ES:NOVA
+http://190.2.150.145:1978/live/01000/01000/6439.ts
+#EXTINF:-1,ES:Real_Madrid_TV
+http://190.2.150.145:1978/live/01000/01000/6438.ts
+#EXTINF:-1,ES:Ribera
+http://190.2.150.145:1978/live/01000/01000/6383.ts
+#EXTINF:-1,ES:rtv ceuta
+http://190.2.150.145:1978/live/01000/01000/6437.ts
+#EXTINF:-1,ES:Rtv vida
+http://190.2.150.145:1978/live/01000/01000/6382.ts
+#EXTINF:-1,ES:Rtvce tv
+http://190.2.150.145:1978/live/01000/01000/6381.ts
+#EXTINF:-1,ES:Sanroque tv
+http://190.2.150.145:1978/live/01000/01000/6380.ts
+#EXTINF:-1,ES:Sevilla tv
+http://190.2.150.145:1978/live/01000/01000/6379.ts
+#EXTINF:-1,ES:sporting hd
+http://190.2.150.145:1978/live/01000/01000/6378.ts
+#EXTINF:-1,ES:Teftv
+http://190.2.150.145:1978/live/01000/01000/6367.ts
+#EXTINF:-1,ES:Telecinco
+http://190.2.150.145:1978/live/01000/01000/6432.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://190.2.150.145:1978/live/01000/01000/6431.ts
+#EXTINF:-1,ES:TNT
+http://190.2.150.145:1978/live/01000/01000/6430.ts
+#EXTINF:-1,ES:Toros Tv
+http://190.2.150.145:1978/live/01000/01000/6429.ts
+#EXTINF:-1,ES:TV Amistad
+http://190.2.150.145:1978/live/01000/01000/6428.ts
+#EXTINF:-1,ES:tve 1
+http://190.2.150.145:1978/live/01000/01000/6427.ts
+#EXTINF:-1,ES: #0 HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256865.ts
+#EXTINF:-1,ES: A&E
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256856.ts
+#EXTINF:-1,ES: AMC
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256869.ts
+#EXTINF:-1,ES: Antena 3 FHD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256867.ts
+#EXTINF:-1,ES: AXN HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256871.ts
+#EXTINF:-1,ES: AXN WHITE Full HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256870.ts
+#EXTINF:-1,ES: BABY TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256873.ts
+#EXTINF:-1,ES: Barca TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256872.ts
+#EXTINF:-1,ES: BOING
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256876.ts
+#EXTINF:-1,ES: Caza Y Pesca HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256864.ts
+#EXTINF:-1,ES: Clan TVE
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256863.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256862.ts
+#EXTINF:-1,ES: COSMO
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256860.ts
+#EXTINF:-1,ES: Crimen & Investigation
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256859.ts
+#EXTINF:-1,ES: Cuatro HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256858.ts
+#EXTINF:-1,ES: DIscovery Channel HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256857.ts
+#EXTINF:-1,ES: Disney Channel
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256908.ts
+#EXTINF:-1,ES: Disney Junior
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256909.ts
+#EXTINF:-1,ES: Disney XD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256905.ts
+#EXTINF:-1,ES: DIVINITY
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256878.ts
+#EXTINF:-1,ES: Energy tv
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256874.ts
+#EXTINF:-1,ES: Estrenos HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256866.ts
+#EXTINF:-1,ES: EuroSp0rt 1
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256850.ts
+#EXTINF:-1,ES: EuroSp0rt 2
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256849.ts
+#EXTINF:-1,ES: FoxLife HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256854.ts
+#EXTINF:-1,ES: Gol TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256855.ts
+#EXTINF:-1,ES: Historia
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256851.ts
+#EXTINF:-1,ES: Hollywood
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256847.ts
+#EXTINF:-1,ES: LA 2
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256848.ts
+#EXTINF:-1,ES: La Liga TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256910.ts
+#EXTINF:-1,ES: La Sexta HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256907.ts
+#EXTINF:-1,ES: MTV ESPANA
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256894.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256891.ts
+#EXTINF:-1,ES: National Geographic HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256892.ts
+#EXTINF:-1,ES: Nick Jr
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256889.ts
+#EXTINF:-1,ES: Nickelodeon
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256890.ts
+#EXTINF:-1,ES: Nova
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256887.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256888.ts
+#EXTINF:-1,ES: Series Xtra HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256885.ts
+#EXTINF:-1,ES: Syfy
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256886.ts
+#EXTINF:-1,ES: Syfy FHD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256883.ts
+#EXTINF:-1,ES: TCM HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256884.ts
+#EXTINF:-1,ES: Telecinco
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256881.ts
+#EXTINF:-1,ES: TNT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256882.ts
+#EXTINF:-1,ES: Toros TV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256877.ts
+#EXTINF:-1,ES: TV3 Catalunya
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256879.ts
+#EXTINF:-1,SP - 0 HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21527.ts
+#EXTINF:-1,SP - 24 HORAS
+http://173.249.63.174:8000/live/fta2018/fta2018/21526.ts
+#EXTINF:-1,SP - AMC HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21525.ts
+#EXTINF:-1,SP - ANTENA 3 HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21524.ts
+#EXTINF:-1,SP - ARAGON
+http://173.249.63.174:8000/live/fta2018/fta2018/21523.ts
+#EXTINF:-1,SP - AXN
+http://173.249.63.174:8000/live/fta2018/fta2018/21522.ts
+#EXTINF:-1,SP - AXN HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21521.ts
+#EXTINF:-1,SP - AXN WHITE HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21520.ts
+#EXTINF:-1,SP - BABY TV
+http://173.249.63.174:8000/live/fta2018/fta2018/21519.ts
+#EXTINF:-1,SP - BAR TV
+http://173.249.63.174:8000/live/fta2018/fta2018/21518.ts
+#EXTINF:-1,SP - BE MAD
+http://173.249.63.174:8000/live/fta2018/fta2018/21517.ts
+#EXTINF:-1,SP - BLAZE
+http://173.249.63.174:8000/live/fta2018/fta2018/21515.ts
+#EXTINF:-1,SP - BOING
+http://173.249.63.174:8000/live/fta2018/fta2018/21514.ts
+#EXTINF:-1,SP - DISCOVERY
+http://173.249.63.174:8000/live/fta2018/fta2018/21499.ts
+#EXTINF:-1,SP - DISNEY HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21498.ts
+#EXTINF:-1,SP - DISNEY JR
+http://173.249.63.174:8000/live/fta2018/fta2018/21497.ts
+#EXTINF:-1,SP - DISNEY XD
+http://173.249.63.174:8000/live/fta2018/fta2018/21496.ts
+#EXTINF:-1,SP - DIVINITY
+http://173.249.63.174:8000/live/fta2018/fta2018/21495.ts
+#EXTINF:-1,SP - ENERGY
+http://173.249.63.174:8000/live/fta2018/fta2018/21494.ts
+#EXTINF:-1,SP - GOL
+http://173.249.63.174:8000/live/fta2018/fta2018/21485.ts
+#EXTINF:-1,SP - HISTORIA
+http://173.249.63.174:8000/live/fta2018/fta2018/21484.ts
+#EXTINF:-1,SP - HOLLYWOOD HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21483.ts
+#EXTINF:-1,SP - IBERALIA
+http://173.249.63.174:8000/live/fta2018/fta2018/21482.ts
+#EXTINF:-1,SP - LA 1 HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21481.ts
+#EXTINF:-1,SP - LA 2
+http://173.249.63.174:8000/live/fta2018/fta2018/21480.ts
+#EXTINF:-1,SP - LA SXTA HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21477.ts
+#EXTINF:-1,SP - MEZZO LIVE HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21460.ts
+#EXTINF:-1,SP - MOTOGP HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21459.ts
+#EXTINF:-1,SP - MTV ROCKS
+http://173.249.63.174:8000/live/fta2018/fta2018/21458.ts
+#EXTINF:-1,SP - NAT GEO HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21457.ts
+#EXTINF:-1,SP - NAT GEO WILD
+http://173.249.63.174:8000/live/fta2018/fta2018/21456.ts
+#EXTINF:-1,SP - NAT WILD HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21455.ts
+#EXTINF:-1,SP - NEOX
+http://173.249.63.174:8000/live/fta2018/fta2018/21454.ts
+#EXTINF:-1,SP - NICKELODEON HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21453.ts
+#EXTINF:-1,SP - PARAMOUNT
+http://173.249.63.174:8000/live/fta2018/fta2018/21452.ts
+#EXTINF:-1,SP - R. MADRID TV
+http://173.249.63.174:8000/live/fta2018/fta2018/21450.ts
+#EXTINF:-1,SP - SYFY HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21449.ts
+#EXTINF:-1,SP - TCM HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21448.ts
+#EXTINF:-1,SP - TELE DEPORTE
+http://173.249.63.174:8000/live/fta2018/fta2018/21447.ts
+#EXTINF:-1,SP - TELECINCO HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21446.ts
+#EXTINF:-1,SP - TNT HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21445.ts
+#EXTINF:-1,SP - TOROS HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21444.ts
+#EXTINF:-1,SP - TVE INTERNACIONAL
+http://173.249.63.174:8000/live/fta2018/fta2018/21443.ts
+#EXTINF:-1,SP - VH1
+http://173.249.63.174:8000/live/fta2018/fta2018/21442.ts
+#EXTINF:-1,SP - VIAJAR HD
+http://173.249.63.174:8000/live/fta2018/fta2018/21441.ts
+#EXTINF:-1,~ Portugal TV ~
+#EXTINF:-1,Agueda TV
+http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
+#EXTINF:-1,Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP2
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP Acores
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP Africa
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP Internacional
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP Madeira
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,RTP Memoria
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
+#EXTINF:-1,TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:-1,RTC (CV)
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+#EXTINF:-1,PT-RTP 1
+http://144.217.72.121:8000/live/nova1764/a1764/382.ts
+#EXTINF:-1,PT-RTP 2
+http://144.217.72.121:8000/live/nova1764/a1764/381.ts
+#EXTINF:-1,PT-RTP Memoria
+http://144.217.72.121:8000/live/nova1764/a1764/380.ts
+#EXTINF:-1,PT-Fox HD
+http://144.217.72.121:8000/live/nova1764/a1764/386.ts
+#EXTINF:-1,PT-Fox Crime
+http://144.217.72.121:8000/live/nova1764/a1764/387.ts
+#EXTINF:-1,PT-Fox Comedy
+http://144.217.72.121:8000/live/nova1764/a1764/388.ts
+#EXTINF:-1,PT-Disney Channel
+http://144.217.72.121:8000/live/nova1764/a1764/390.ts
+#EXTINF:-1,PT-Jim Jim
+http://144.217.72.121:8000/live/nova1764/a1764/385.ts
+#EXTINF:-1,PT-Disney Junior
+http://144.217.72.121:8000/live/nova1764/a1764/389.ts
+#EXTINF:-1,PT-Record
+http://144.217.72.121:8000/live/nova1764/a1764/383.ts
+#EXTINF:-1,PT-Discovery HD
+http://144.217.72.121:8000/live/nova1764/a1764/391.ts
+#EXTINF:-1,PT-TV Globo
+http://144.217.72.121:8000/live/nova1764/a1764/375.ts
+#EXTINF:-1,PT-TVI Ficcao
+http://144.217.72.121:8000/live/nova1764/a1764/370.ts
+#EXTINF:-1,PT-Toros tv
+http://144.217.72.121:8000/live/nova1764/a1764/376.ts
+#EXTINF:-1,PT-Canal Porto
+http://144.217.72.121:8000/live/nova1764/a1764/392.ts
+#EXTINF:-1,PT-Abola tv
+http://144.217.72.121:8000/live/nova1764/a1764/394.ts
+#EXTINF:-1,PT-24KITCHEN HD
+http://144.217.72.121:8000/live/nova1764/a1764/1443.ts
+#EXTINF:-1,PT-A and E
+http://144.217.72.121:8000/live/nova1764/a1764/1442.ts
+#EXTINF:-1,PT-AMC
+http://144.217.72.121:8000/live/nova1764/a1764/1444.ts
+#EXTINF:-1,PT-AXN BLACK HD
+http://144.217.72.121:8000/live/nova1764/a1764/1441.ts
+#EXTINF:-1,PT-AXN HD
+http://144.217.72.121:8000/live/nova1764/a1764/1440.ts
+#EXTINF:-1,PT-AXN WHITE
+http://144.217.72.121:8000/live/nova1764/a1764/1439.ts
+#EXTINF:-1,PT-baby tv
+http://144.217.72.121:8000/live/nova1764/a1764/1438.ts
+#EXTINF:-1,PT-BENFICA TV 1 HD
+http://144.217.72.121:8000/live/nova1764/a1764/1437.ts
+#EXTINF:-1,PT-CA E PESCA
+http://144.217.72.121:8000/live/nova1764/a1764/1436.ts
+#EXTINF:-1,PT-Caca Vision
+http://144.217.72.121:8000/live/nova1764/a1764/1435.ts
+#EXTINF:-1,PT-CM TV
+http://144.217.72.121:8000/live/nova1764/a1764/1431.ts
+#EXTINF:-1,PT-E! Entertainment
+http://144.217.72.121:8000/live/nova1764/a1764/1430.ts
+#EXTINF:-1,PT-Eurosport 1
+http://144.217.72.121:8000/live/nova1764/a1764/1429.ts
+#EXTINF:-1,PT-Eurosport 2
+http://144.217.72.121:8000/live/nova1764/a1764/1428.ts
+#EXTINF:-1,PT-Eurosport News
+http://144.217.72.121:8000/live/nova1764/a1764/1427.ts
+#EXTINF:-1,PT-Fox Life HD
+http://144.217.72.121:8000/live/nova1764/a1764/1426.ts
+#EXTINF:-1,PT-Fox Movies
+http://144.217.72.121:8000/live/nova1764/a1764/1425.ts
+#EXTINF:-1,PT-Fuel TV
+http://144.217.72.121:8000/live/nova1764/a1764/1424.ts
+#EXTINF:-1,PT-GLOBO PREMIUM
+http://144.217.72.121:8000/live/nova1764/a1764/1423.ts
+#EXTINF:-1,PT-HISTORIA HD
+http://144.217.72.121:8000/live/nova1764/a1764/1422.ts
+#EXTINF:-1,PT-Kombat Sport
+http://144.217.72.121:8000/live/nova1764/a1764/1420.ts
+#EXTINF:-1,PT-NAT GEO WILD
+http://144.217.72.121:8000/live/nova1764/a1764/1416.ts
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
+http://144.217.72.121:8000/live/nova1764/a1764/1415.ts
+#EXTINF:-1,PT-ODISSEIA
+http://144.217.72.121:8000/live/nova1764/a1764/1414.ts
+#EXTINF:-1,PT-PFC
+http://144.217.72.121:8000/live/nova1764/a1764/1413.ts
+#EXTINF:-1,PT-RTP 3
+http://144.217.72.121:8000/live/nova1764/a1764/1410.ts
+#EXTINF:-1,PT-SIC
+http://144.217.72.121:8000/live/nova1764/a1764/1409.ts
+#EXTINF:-1,PT-SPORT TV
+http://144.217.72.121:8000/live/nova1764/a1764/1407.ts
+#EXTINF:-1,PT-Sport TV1
+http://144.217.72.121:8000/live/nova1764/a1764/1406.ts
+#EXTINF:-1,PT-Sport TV2
+http://144.217.72.121:8000/live/nova1764/a1764/1404.ts
+#EXTINF:-1,PT-SPORT TV 3
+http://144.217.72.121:8000/live/nova1764/a1764/1402.ts
+#EXTINF:-1,PT-Sport TV4
+http://144.217.72.121:8000/live/nova1764/a1764/1400.ts
+#EXTINF:-1,PT-SPORTTV 5
+http://144.217.72.121:8000/live/nova1764/a1764/1398.ts
+#EXTINF:-1,PT-Sporting TV+ HD
+http://144.217.72.121:8000/live/nova1764/a1764/1408.ts
+#EXTINF:-1,PT-SYFY HD
+http://144.217.72.121:8000/live/nova1764/a1764/1396.ts
+#EXTINF:-1,PT-TLC
+http://144.217.72.121:8000/live/nova1764/a1764/1395.ts
+#EXTINF:-1,PT-Travel Channel HD
+http://144.217.72.121:8000/live/nova1764/a1764/1394.ts
+#EXTINF:-1,PT-TV SERIES
+http://144.217.72.121:8000/live/nova1764/a1764/1393.ts
+#EXTINF:-1,PT-TVCine 4 HD
+http://144.217.72.121:8000/live/nova1764/a1764/1392.ts
+#EXTINF:-1,PT-TVI
+http://144.217.72.121:8000/live/nova1764/a1764/1391.ts
+#EXTINF:-1,PT-TVI24
+http://144.217.72.121:8000/live/nova1764/a1764/1390.ts
+#EXTINF:-1,24 Kitchen PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92493.ts
+#EXTINF:-1,A Bola TV PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92495.ts
+#EXTINF:-1,AMC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92496.ts
+#EXTINF:-1,AXN PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92497.ts
+#EXTINF:-1,AXN White PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92498.ts
+#EXTINF:-1,Baby TV PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92499.ts
+#EXTINF:-1,CM TV PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92509.ts
+#EXTINF:-1,Discovery Channel PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92510.ts
+#EXTINF:-1,Discovery Showcase PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92511.ts
+#EXTINF:-1,DISNEY JUNIOR PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92513.ts
+#EXTINF:-1,E! Entertainment PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92514.ts
+#EXTINF:-1,EUROSp0rt PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92515.ts
+#EXTINF:-1,Fox Life PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92517.ts
+#EXTINF:-1,Fox Movies PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92518.ts
+#EXTINF:-1,FOX TV PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92519.ts
+#EXTINF:-1,Fuel Tv PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92520.ts
+#EXTINF:-1,Globo PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92521.ts
+#EXTINF:-1,HOLLYWOOD PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92522.ts
+#EXTINF:-1,JimJam PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92523.ts
+#EXTINF:-1,MOTORVISION PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92525.ts
+#EXTINF:-1,Mov PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92527.ts
+#EXTINF:-1,Mtv Portuga PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92528.ts
+#EXTINF:-1,MTV PORTUGAL PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92529.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92530.ts
+#EXTINF:-1,Nat Geo Wild PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92531.ts
+#EXTINF:-1,Nickelodeon PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92532.ts
+#EXTINF:-1,Odisseia PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92533.ts
+#EXTINF:-1,PFC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92534.ts
+#EXTINF:-1,Porto Canal PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92535.ts
+#EXTINF:-1,Rtp 2 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92537.ts
+#EXTINF:-1,Rtp 3 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92538.ts
+#EXTINF:-1,RTP 
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92540.ts
+#EXTINF:-1,RTP MEM
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92541.ts
+#EXTINF:-1,Sic PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92542.ts
+#EXTINF:-1,Sic Mulher PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92543.ts
+#EXTINF:-1,Sic Notícias PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92544.ts
+#EXTINF:-1,Sic Radical PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92545.ts
+#EXTINF:-1,Sp0rt TV 3 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92546.ts
+#EXTINF:-1,Sp0rt TV 4 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92547.ts
+#EXTINF:-1,Sp0rt TV 4HD PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92548.ts
+#EXTINF:-1,Sp0rt TV 5 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92549.ts
+#EXTINF:-1,Sp0rt TV 5HD PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92550.ts
+#EXTINF:-1,Sporting Tv PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92551.ts
+#EXTINF:-1,Syfy PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92552.ts
+#EXTINF:-1,TLC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92553.ts
+#EXTINF:-1,TOUROS TV PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92554.ts
+#EXTINF:-1,TV RECORD PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92561.ts
+#EXTINF:-1,TVC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92562.ts
+#EXTINF:-1,TVCseries PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92563.ts
+#EXTINF:-1,Tvi PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92564.ts
+#EXTINF:-1,Tvi 24 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92565.ts
+#EXTINF:-1,Tvi Reality PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92566.ts
+#EXTINF:-1,TVI Reality (A Quinta) PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92567.ts
+#EXTINF:-1,VH1 CLASSIC PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92569.ts
+#EXTINF:-1,Sp0rt TV 1 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92570.ts
+#EXTINF:-1,Sp0rt Tv 2 PT
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92571.ts
+#EXTINF:-1,RTP 1
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/255675.ts
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256986.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256985.ts
+#EXTINF:-1,PT: AXN HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256984.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256983.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256982.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256981.ts
+#EXTINF:-1,PT: CMTV
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256980.ts
+#EXTINF:-1,PT: EMC
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256979.ts
+#EXTINF:-1,PT: EUROSp0rt 1 HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256978.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256977.ts
+#EXTINF:-1,PT: Historia
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256987.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/257006.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/257005.ts
+#EXTINF:-1,PT: RTP 1
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256988.ts
+#EXTINF:-1,PT: RTP 2
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256989.ts
+#EXTINF:-1,PT: RTP 3
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256990.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256991.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256992.ts
+#EXTINF:-1,PT: SIC
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256993.ts
+#EXTINF:-1,PT: SIC CARAS
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256994.ts
+#EXTINF:-1,PT: SIC K
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256995.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://193.200.164.165:83/live/agntPSX/34g3g3g33h/256996.ts
